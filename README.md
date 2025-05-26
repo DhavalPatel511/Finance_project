@@ -1,18 +1,16 @@
-# Finance_project
-
-# 📊 Customer-Centric Financial Analytics Dashboard (Power BI)
+#  Customer-Centric Financial Analytics Dashboard (Power BI)
 
 A multi-page interactive Power BI dashboard designed to simulate a real-world business informatics use case for a financial services company. The dashboard provides deep insights into AUM trends, customer behavior, product performance, service quality, and digital engagement — supporting decision-making across business and technical teams.
 
 ---
 
-## 🧩 Project Overview
+##  Project Overview
 
 This project replicates a business scenario where a data visualization analyst is tasked with integrating multiple data sources to build an executive-ready reporting system.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Track AUM, contributions, and withdrawals over time
 - Compare product performance based on ROI, risk, and fee revenue
@@ -22,7 +20,7 @@ This project replicates a business scenario where a data visualization analyst i
 
 ---
 
-## 📁 Data Sources (Simulated)
+##  Data Sources (Simulated)
 ### 1. Customer Data (`customers.csv`)
 
 customer_id,first_name,last_name,birth_date,enrollment_date,customer_segment,employer_id,email,phone,address_city,address_state
@@ -59,42 +57,42 @@ date,sp500_index,bond_index,inflation_rate,prime_rate,unemployment_rate
 
 customer_id,product_id,churn_date,churn_reason,exit_survey_score,recovered_flag,total_customer_lifetime_value
 
-> 💡 *Data is synthetically generated using Python to match realistic patterns.*
+>  *Data is synthetically generated using Python to match realistic patterns.*
 
 ---
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 
-### ✅ 1. Executive Summary
+###  1. Executive Summary
 - KPIs: AUM, Net Flows, Active Customers, Retention Rate
 - Time-series: AUM Trend with forecast
 - AUM by Product Category (Donut), Net Flows Over Time
 - Products Per Customer by Segment, Customer Map by State
 
-### 📈 2. Product Performance
+###  2. Product Performance
 - Product Matrix: AUM, Fee Revenue, Net Flow
 - Risk vs Return Scatter Plot (Bubble Size = AUM)
 - ROI vs Benchmark (Line Chart), Top/Bottom Products
 - Fee Revenue by Product, AUM by Risk Category
 
-### 👥 3. Customer Insights
+###  3. Customer Insights
 - Acquisition Trend (Line), Growth Drivers (Waterfall)
 - Avg Balance by Segment & Age, Sankey: Channel → Product → Status
 - Customer Value (Tenure vs Balance), Retention Heat Map
 
-### 🛠 4. Service Quality
+###  4. Service Quality
 - Volume by Channel Over Time, Satisfaction by Issue Type
 - FCR Gauge, Service Resolution Funnel, Issues by Segment/Product
 - Top Contact Reasons Table
 
-### 📱 5. Digital Engagement
+###  5. Digital Engagement
 - Engagement Trend Over Time, Device Distribution
 - Common Digital Actions, Usage by Age Group and Device
 - Session Duration Trend, Engagement vs Growth Scatter
 
 ---
 
-## 🛠 Tools & Skills Used
+##  Tools & Skills Used
 
 - **Power BI Desktop** – Dashboard design, visuals, slicers
 - **Power Query (M)** – Data transformation and cleaning
