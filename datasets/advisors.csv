@@ -1,0 +1,51 @@
+advisor_id,first_name,last_name,office_location,certification_level,years_experience,customer_satisfaction_avg,clients_count
+ADV0001,Kyle,Howell,"Thomaston, WV",Junior,19,3.87,58
+ADV0002,Jonathan,Doyle,"Lake Erinport, WV",Master,14,3.42,52
+ADV0003,Catherine,Cox,"Jessicabury, SD",Associate,23,4.07,60
+ADV0004,Alexis,Baxter,"East Rachel, KS",Junior,3,3.03,22
+ADV0005,David,Moses,"New Pamela, LA",Junior,24,4.16,53
+ADV0006,Susan,Roberson,"Rickmouth, UT",Master,29,4.81,104
+ADV0007,Michael,Powers,"Jessicabury, SD",Associate,25,4.04,54
+ADV0008,Lisa,Cooper,"Debraview, DE",Expert,9,3.4,42
+ADV0009,Christopher,Ramos,"East Rachel, KS",Associate,22,3.87,67
+ADV0010,Ricardo,Huff,"North Thomas, WV",Associate,6,3.26,33
+ADV0011,Joshua,Bowen,"East Rachel, KS",Junior,8,3.72,46
+ADV0012,Emily,Sanchez,"Debraview, DE",Associate,30,4.94,122
+ADV0013,Derek,Thomas,"Rickmouth, UT",Expert,13,4.03,53
+ADV0014,Sean,Brown,"Phillipsberg, AK",Associate,24,4.26,55
+ADV0015,Bradley,White,"Simonfort, CT",Expert,12,3.32,21
+ADV0016,Eric,Russell,"Rickmouth, UT",Expert,20,3.56,79
+ADV0017,Francis,Coffey,"Jessicabury, SD",Junior,22,4.48,108
+ADV0018,Kaylee,Anderson,"East Rachel, KS",Junior,10,3.43,21
+ADV0019,Brenda,Gonzalez,"North Thomas, WV",Senior,17,4.11,58
+ADV0020,Anthony,Schwartz,"Rickmouth, UT",Senior,27,4.49,88
+ADV0021,Bryan,Brown,"Phillipsberg, AK",Master,25,4.67,120
+ADV0022,Gina,Wilson,"Jessicashire, FL",Junior,4,3.63,27
+ADV0023,Cody,Warner,"Simonfort, CT",Junior,3,3.38,27
+ADV0024,Laurie,Peters,"Rickmouth, UT",Expert,18,3.57,53
+ADV0025,Diana,Poole,"Lake Erinport, WV",Master,25,4.48,64
+ADV0026,John,Herring,"Rickmouth, UT",Senior,15,4.15,53
+ADV0027,Elizabeth,Robertson,"Debraview, DE",Senior,1,3.14,19
+ADV0028,Wanda,Pena,"Debraview, DE",Junior,8,2.97,21
+ADV0029,Rebecca,Carter,"Thomaston, WV",Associate,9,3.62,33
+ADV0030,Betty,Miller,"Simonfort, CT",Master,16,3.54,47
+ADV0031,Toni,Miller,"Debraview, DE",Junior,22,4.03,62
+ADV0032,Craig,Gonzalez,"North Thomas, WV",Junior,22,4.25,74
+ADV0033,James,Rojas,"North Thomas, WV",Senior,26,4.66,73
+ADV0034,Scott,Love,"Jessicashire, FL",Associate,14,3.38,38
+ADV0035,Jennifer,Gordon,"Debraview, DE",Expert,26,4.66,86
+ADV0036,Miguel,Rodriguez,"Thomaston, WV",Junior,3,3.58,33
+ADV0037,Kenneth,Santos,"Jessicashire, FL",Expert,7,3.71,43
+ADV0038,Kevin,Green,"Jessicabury, SD",Expert,9,3.88,48
+ADV0039,Madison,Thompson,"North Thomas, WV",Master,22,4.32,56
+ADV0040,Jacob,Simmons,"Jessicabury, SD",Master,24,4.24,81
+ADV0041,Dominic,Weaver,"Simonfort, CT",Expert,17,4.27,61
+ADV0042,Donna,Howard,"Thomaston, WV",Junior,28,4.09,87
+ADV0043,Aaron,Nelson,"Lake Erinport, WV",Expert,4,3.64,32
+ADV0044,Elizabeth,Dixon,"Jessicabury, SD",Master,3,3.07,26
+ADV0045,Dustin,White,"New Pamela, LA",Associate,22,4.32,57
+ADV0046,Johnny,Anderson,"Rickmouth, UT",Senior,15,3.57,53
+ADV0047,Theresa,Horton,"Jessicashire, FL",Master,19,4.45,51
+ADV0048,David,Mendez,"New Pamela, LA",Associate,30,4.35,65
+ADV0049,Joanna,Turner,"New Pamela, LA",Associate,15,4.08,66
+ADV0050,David,Miller,"Rickmouth, UT",Master,1,3.22,30

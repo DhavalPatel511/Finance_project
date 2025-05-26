@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,birth_date,enrollment_date,customer_segment,employer_id,email,phone,address_city,address_state
+CUS000001,Anna,Martin,1985-05-17,2023-03-26,Mass Market,EMP0023,anna.martin@yahoo.com,001-202-473-2787x585,West David,VA
+CUS000002,Gregory,Dickson,1995-05-18,2020-05-23,High Net Worth,EMP0472,gregory.dickson@gmail.com,3895842092,Adamview,MI
+CUS000003,Denise,Cooper,1954-05-18,2021-09-07,Mass Market,EMP0342,denise.cooper@yahoo.com,687-231-8389,Gentryfurt,NE
+CUS000004,Austin,Melendez,1983-05-18,2021-01-27,Mass Market,EMP0482,austin.melendez@yahoo.com,001-897-468-2781x072,North Johnstad,MO
+CUS000005,Gary,Holmes,1990-05-18,2020-01-01,Mass Market,EMP0108,gary.holmes@yahoo.com,761.953.4748,Rebeccafurt,NV
+CUS000006,Antonio,Anderson,1977-05-17,2022-06-24,Affluent,EMP0262,antonio.anderson@gmail.com,593.907.0204x351,Emilychester,NM
+CUS000007,James,Aguirre,1990-05-18,2023-09-21,Affluent,EMP0172,james.aguirre@hotmail.com,987.895.1765,Bethshire,CO
+CUS000008,Brian,Perry,1988-05-17,2021-02-11,Mass Market,EMP0024,brian.perry@yahoo.com,(967)394-9967x6342,Lake Courtneyberg,KS
+CUS000009,David,Parker,1976-05-17,2023-07-13,Mass Market,EMP0368,david.parker@hotmail.com,(546)637-7946,Mullenbury,VT
+CUS000010,Anthony,Romero,2001-05-17,2023-11-09,Mass Market,EMP0385,anthony.romero@gmail.com,(913)787-8678,Sherryberg,WY
+CUS000011,Jacob,Diaz,1968-05-17,2023-11-26,Mass Market,EMP0026,jacob.diaz@yahoo.com,238.286.4410,North Francesburgh,OK
+CUS000012,Thomas,Mccoy,1961-05-17,2023-09-29,Mass Market,EMP0287,thomas.mccoy@yahoo.com,+1-863-277-0657x43368,South Joshua,RI
+CUS000013,Christine,Warren,1956-05-17,2023-01-27,Mass Market,EMP0082,christine.warren@yahoo.com,6435337826,North Scottside,WV
+CUS000014,Seth,Wilson,1967-05-18,2021-07-21,Affluent,EMP0267,seth.wilson@gmail.com,(201)367-2981x2801,Glendafort,NY
+CUS000015,Joanne,Short,1997-05-17,2021-08-08,Mass Market,EMP0172,joanne.short@hotmail.com,+1-437-709-1716x561,Stevenburgh,MA
+CUS000016,Aimee,Diaz,1993-05-17,2023-11-22,Mass Market,EMP0110,aimee.diaz@yahoo.com,484.854.9271,Mendozafurt,CA
+CUS000017,Robin,Larson,1982-05-18,2021-02-27,Affluent,EMP0200,robin.larson@yahoo.com,968.536.7452,Danielmouth,WY
+CUS000018,Stephen,Navarro,1995-05-18,2021-12-21,Mass Market,EMP0200,stephen.navarro@hotmail.com,(976)439-9185x10769,North Nathanchester,NE
+CUS000019,Eric,Stewart,1978-05-18,2021-07-12,Mass Market,EMP0015,eric.stewart@hotmail.com,787-797-7792x746,Lake Reneeview,MO
+CUS000020,James,Smith,1952-05-17,2020-09-18,Ultra High Net Worth,EMP0274,james.smith@yahoo.com,725-200-2059,New Markberg,AK
+CUS000021,Russell,Adams,2001-05-17,2022-05-27,Mass Market,EMP0237,russell.adams@gmail.com,001-317-775-6242x4231,West Michellemouth,ID
+CUS000022,Collin,Zuniga,1987-05-18,2021-10-31,Mass Market,EMP0451,collin.zuniga@hotmail.com,780-290-5786,North Henry,MO
+CUS000023,Scott,Wong,1982-05-18,2024-03-14,Mass Market,EMP0488,scott.wong@hotmail.com,908.532.3478x29595,New Cindyport,MN
+CUS000024,Matthew,Thomas,1973-05-17,2021-05-21,Mass Market,EMP0011,matthew.thomas@gmail.com,001-950-968-3118x60900,East Ronaldfort,SC
+CUS000025,David,Hall,1971-05-18,2023-03-01,High Net Worth,EMP0239,david.hall@gmail.com,553-388-9543x87192,Port Kimberly,VT
+CUS000026,Jessica,Jones,1970-05-18,2020-12-01,Ultra High Net Worth,EMP0056,jessica.jones@yahoo.com,7372562046,Perezfurt,PA
+CUS000027,Joshua,Sloan,1986-05-18,2024-01-04,Mass Market,EMP0304,joshua.sloan@yahoo.com,835.544.8365,Port Erin,VT
+CUS000028,Justin,Benson,1972-05-17,2023-05-14,Affluent,EMP0408,justin.benson@gmail.com,786-389-8869x2517,East Rebeccamouth,OR
+CUS000029,Michael,Lewis,1964-05-17,2020-05-21,Mass Market,EMP0175,michael.lewis@hotmail.com,+1-881-782-9971x6636,Powellport,AL
+CUS000030,Jennifer,Garcia,1937-05-17,2023-07-25,High Net Worth,EMP0236,jennifer.garcia@hotmail.com,+1-891-302-2629x79911,Mezaton,VA
+CUS000031,Megan,Howard,1970-05-18,2023-01-07,Affluent,EMP0239,megan.howard@yahoo.com,(692)702-3970x706,Morganville,NV
+CUS000032,George,Salinas,1967-05-18,2024-08-28,High Net Worth,EMP0143,george.salinas@yahoo.com,001-357-216-4300,North Juliemouth,NH
+CUS000033,David,Manning,1981-05-17,2022-10-09,High Net Worth,EMP0094,david.manning@hotmail.com,(802)500-2488x89057,Lake Wesley,NY
+CUS000034,William,Kelley,1984-05-17,2023-05-05,Affluent,EMP0142,william.kelley@yahoo.com,+1-300-853-4623x8672,West Nicole,OK
+CUS000035,Joseph,Williams,1979-05-18,2022-04-12,Mass Market,EMP0389,joseph.williams@hotmail.com,274-461-4398,New Annamouth,KS
+CUS000036,Joanna,Ayers,1980-05-17,2020-02-05,Mass Market,EMP0114,joanna.ayers@yahoo.com,944-900-1397x8412,Lake Samantha,MT
+CUS000037,Jennifer,Acevedo,1988-05-17,2022-12-23,Mass Market,EMP0382,jennifer.acevedo@gmail.com,919-711-1491,Cherylshire,OK
+CUS000038,David,Weaver,1984-05-17,2021-05-29,Mass Market,EMP0370,david.weaver@yahoo.com,001-954-900-5864x048,Melanieton,IL
+CUS000039,Justin,Vargas,2002-05-18,2024-02-21,Mass Market,EMP0371,justin.vargas@gmail.com,9684800313,Troyfurt,PA
+CUS000040,Sarah,Marsh,1941-05-17,2021-02-01,Mass Market,EMP0185,sarah.marsh@yahoo.com,927.650.9191x72604,New Jamie,ID
+CUS000041,Cynthia,Parker,1995-05-18,2020-04-21,Mass Market,EMP0358,cynthia.parker@hotmail.com,6509041084,Susanfort,FL
+CUS000042,Kimberly,Henderson,1980-05-17,2022-08-19,Mass Market,EMP0175,kimberly.henderson@hotmail.com,461.271.9422x39924,West Michael,ID
+CUS000043,Stephanie,Carter,1960-05-17,2022-03-31,Mass Market,EMP0296,stephanie.carter@yahoo.com,+1-576-914-9365,New Jenniferbury,SD
+CUS000044,Charles,Moss,1971-05-18,2021-09-14,Mass Market,EMP0128,charles.moss@yahoo.com,(453)945-6047x4207,Davidberg,DE
+CUS000045,Matthew,Walton,1956-05-17,2022-02-18,Mass Market,EMP0227,matthew.walton@hotmail.com,001-419-298-2028,North Wendyfurt,MD
+CUS000046,Mark,Mason,1966-05-18,2024-02-24,Mass Market,EMP0391,mark.mason@yahoo.com,001-678-358-5275x78485,Scottburgh,IN
+CUS000047,Christina,Cummings,1997-05-17,2020-12-21,Mass Market,EMP0081,christina.cummings@yahoo.com,363.703.1783x85640,Port Charlesfurt,AL
+CUS000048,Ian,Sawyer,1981-05-17,2021-04-19,Mass Market,EMP0145,ian.sawyer@gmail.com,9737438673,Marshallview,VT
+CUS000049,Erica,Clark,1943-05-18,2024-06-01,Affluent,EMP0302,erica.clark@gmail.com,579-472-7584x69481,Lake Jeffreyville,TX
+CUS000050,Jonathan,Delgado,1989-05-17,2023-08-19,Mass Market,EMP0137,jonathan.delgado@hotmail.com,548-915-6265x37722,Branchton,GA
+CUS000051,Jamie,David,1994-05-18,2024-08-15,Mass Market,EMP0148,jamie.david@gmail.com,(522)991-4485,Michelleborough,NH
+CUS000052,Tammy,Wilson,1953-05-17,2021-07-11,Mass Market,EMP0253,tammy.wilson@hotmail.com,(389)979-5662,Meyerville,NH
+CUS000053,Madeline,Young,1974-05-18,2023-05-21,Mass Market,EMP0047,madeline.young@hotmail.com,+1-323-812-5081x269,Lake James,IA
+CUS000054,Colleen,Williams,1950-05-18,2023-10-08,Affluent,EMP0296,colleen.williams@hotmail.com,(582)387-8152x1864,Christopherland,AZ
+CUS000055,Karen,Sanchez,1936-05-17,2021-01-06,Ultra High Net Worth,EMP0224,karen.sanchez@hotmail.com,+1-350-928-6235,Lindaberg,SD
+CUS000056,Juan,Gamble,1993-05-17,2021-10-19,Affluent,EMP0440,juan.gamble@gmail.com,5498315991,South Nicole,HI
+CUS000057,Sydney,Pope,1982-05-18,2022-03-31,Affluent,EMP0282,sydney.pope@hotmail.com,589.561.4377x229,New Michaelhaven,AZ
+CUS000058,Jeff,Yang,1993-05-17,2024-05-01,Mass Market,EMP0264,jeff.yang@gmail.com,+1-666-968-2292x727,Hillmouth,AL
+CUS000059,Anthony,Clarke,1997-05-17,2022-11-27,Mass Market,EMP0388,anthony.clarke@gmail.com,(675)844-4711x25719,North Lisaview,NY
+CUS000060,Craig,Williamson,1981-05-17,2023-01-29,Mass Market,EMP0148,craig.williamson@hotmail.com,350-543-9665,Sarahbury,NH
+CUS000061,Jessica,Strickland,1950-05-18,2023-05-31,Affluent,EMP0364,jessica.strickland@gmail.com,+1-981-642-5719x084,Hallberg,HI
+CUS000062,Joseph,Wong,2003-05-18,2020-08-20,Mass Market,EMP0061,joseph.wong@gmail.com,250-618-2632,North Lindaville,TN
+CUS000063,Joanna,Austin,1980-05-17,2021-07-13,Mass Market,EMP0248,joanna.austin@gmail.com,(649)460-8777x69311,New Melissaport,NM
+CUS000064,Justin,Flores,1981-05-17,2023-05-12,Mass Market,EMP0451,justin.flores@yahoo.com,340.224.9698,West Sarah,FL
+CUS000065,Nathan,Watson,1987-05-18,2024-06-01,Mass Market,EMP0421,nathan.watson@hotmail.com,928-273-0415x4008,West James,AL
+CUS000066,Benjamin,Strong,1957-05-17,2022-07-03,Mass Market,EMP0177,benjamin.strong@hotmail.com,(321)696-5358x830,Rogersmouth,MI
+CUS000067,Bruce,Crawford,1936-05-17,2021-01-21,Ultra High Net Worth,EMP0123,bruce.crawford@yahoo.com,001-339-391-6967x365,Wyattbury,OR
+CUS000068,Joan,Anthony,2001-05-17,2024-03-05,Mass Market,EMP0468,joan.anthony@hotmail.com,733.302.0197x46420,West Christopher,MO
+CUS000069,Chelsea,Wolf,1935-05-18,2020-09-15,Mass Market,EMP0303,chelsea.wolf@hotmail.com,713.450.7884,New Robertland,MI
+CUS000070,Ashley,Steele,2006-05-18,2020-10-22,Mass Market,EMP0336,ashley.steele@hotmail.com,405.852.5536x631,West Jacob,GA
+CUS000071,Joshua,Graham,1980-05-17,2023-11-19,Mass Market,EMP0042,joshua.graham@yahoo.com,873.620.8561x7607,Benjaminfort,MI
+CUS000072,Maria,Bradshaw,1963-05-18,2024-04-04,Mass Market,EMP0278,maria.bradshaw@hotmail.com,341-362-4910,Christinetown,AZ
+CUS000073,Andrea,Harper,1941-05-17,2024-03-09,Mass Market,EMP0051,andrea.harper@yahoo.com,001-888-283-4620x77243,Andrewmouth,WI
+CUS000074,Kimberly,Allen,1961-05-17,2020-02-29,Mass Market,EMP0408,kimberly.allen@yahoo.com,(782)867-4436x9913,Arroyochester,AR
+CUS000075,Martha,Brown,2003-05-18,2022-12-23,Mass Market,EMP0350,martha.brown@yahoo.com,(759)855-3862,Andersonburgh,ID
+CUS000076,Tanya,Ponce,1973-05-17,2021-05-08,Mass Market,EMP0299,tanya.ponce@gmail.com,+1-674-972-4009,Millermouth,GA
+CUS000077,Jason,Buck,1981-05-17,2023-09-27,Mass Market,EMP0412,jason.buck@yahoo.com,770-627-4941x16769,Reedhaven,NJ
+CUS000078,Craig,Nguyen,1978-05-18,2021-12-08,Ultra High Net Worth,EMP0154,craig.nguyen@hotmail.com,498.968.4431,Beasleymouth,SD
+CUS000079,Rachel,Williams,2001-05-17,2022-02-26,High Net Worth,EMP0055,rachel.williams@yahoo.com,001-676-659-2169x5085,New Calebmouth,KS
+CUS000080,Julie,Reyes,1941-05-17,2021-08-27,Mass Market,EMP0425,julie.reyes@hotmail.com,(456)849-3496x60022,Lopezland,TX
+CUS000081,Sharon,Thomas,1949-05-17,2024-03-06,Mass Market,EMP0463,sharon.thomas@yahoo.com,263-576-6478x8316,West Lawrenceburgh,ME
+CUS000082,Cynthia,Burton,1988-05-17,2021-01-24,Affluent,EMP0348,cynthia.burton@hotmail.com,747.457.0659x03509,Dianechester,WI
+CUS000083,Devin,Graves,1947-05-18,2023-08-16,Mass Market,EMP0404,devin.graves@hotmail.com,979.297.2159x535,North Kelly,NH
+CUS000084,Raymond,Johnston,2007-05-18,2021-08-27,Mass Market,EMP0213,raymond.johnston@yahoo.com,(985)273-2554x70517,West Denise,ID
+CUS000085,Timothy,Ross,1991-05-18,2021-07-12,Affluent,EMP0132,timothy.ross@yahoo.com,+1-866-676-1962,Port Kathleen,NM
+CUS000086,William,Williams,1952-05-17,2022-08-17,Ultra High Net Worth,EMP0073,william.williams@gmail.com,001-935-495-5545,South Daniellefurt,WI
+CUS000087,Connie,Mcguire,2004-05-17,2022-03-19,Mass Market,EMP0275,connie.mcguire@gmail.com,3238327263,Johnsonland,DE
+CUS000088,Kathleen,Rodriguez,1984-05-17,2024-08-11,Affluent,EMP0191,kathleen.rodriguez@hotmail.com,001-315-507-5838x08736,Parkerside,CT
+CUS000089,Stephen,Campbell,1960-05-17,2023-02-23,Mass Market,EMP0313,stephen.campbell@yahoo.com,+1-566-887-2027,Michaelside,IA
+CUS000090,Tyler,Perry,1936-05-17,2021-09-10,Affluent,EMP0060,tyler.perry@gmail.com,001-396-474-8118x872,Julieville,FL
+CUS000091,William,Ortega,2007-05-18,2021-04-25,High Net Worth,EMP0070,william.ortega@gmail.com,(618)765-5730x972,South Denisemouth,MO
+CUS000092,Brandi,Valencia,1984-05-17,2024-01-28,Mass Market,EMP0213,brandi.valencia@gmail.com,3626347196,North Matthewchester,TN
+CUS000093,Brandon,Becker,1937-05-17,2021-07-26,Mass Market,EMP0190,brandon.becker@hotmail.com,330.478.1539,Yatestown,IN
+CUS000094,Patricia,Hooper,2000-05-17,2023-11-05,Mass Market,EMP0462,patricia.hooper@hotmail.com,446-221-6007,Matthewton,TN
+CUS000095,Heather,Nelson,2002-05-18,2020-09-07,High Net Worth,EMP0422,heather.nelson@gmail.com,350.672.7381,Conleyburgh,NJ
+CUS000096,Jason,Allen,2006-05-18,2021-11-14,Mass Market,EMP0065,jason.allen@hotmail.com,+1-239-826-0758,West Christinestad,OR
+CUS000097,Crystal,Schaefer,1993-05-17,2024-07-23,High Net Worth,EMP0169,crystal.schaefer@hotmail.com,467-315-1395x930,New Hayley,WY
+CUS000098,Timothy,Mclean,1975-05-18,2020-10-23,Ultra High Net Worth,EMP0277,timothy.mclean@yahoo.com,001-964-269-7090x364,New Jessica,KY
+CUS000099,James,Joyce,1995-05-18,2022-01-03,Affluent,EMP0122,james.joyce@gmail.com,757.973.5396,Kathyfurt,PA
+CUS000100,Erin,Lucas,2002-05-18,2024-02-28,Mass Market,EMP0059,erin.lucas@yahoo.com,001-933-355-9142,New Mistymouth,WV
+CUS000101,Christopher,Adkins,1980-05-17,2020-08-11,Mass Market,EMP0114,christopher.adkins@gmail.com,380.926.2661x197,Lake Aliceberg,SC
+CUS000102,Eric,Duarte,1966-05-18,2020-03-04,Mass Market,EMP0246,eric.duarte@gmail.com,001-310-398-8096x412,East Barbara,MT
+CUS000103,Gerald,Brewer,2001-05-17,2020-06-14,Mass Market,EMP0076,gerald.brewer@yahoo.com,856.588.2492x800,Thomasport,CA
+CUS000104,Kristina,Price,1987-05-18,2023-05-08,Mass Market,EMP0233,kristina.price@hotmail.com,710-747-8121x02804,Lake Jerryton,NC
+CUS000105,Melissa,Smith,1972-05-17,2023-08-26,High Net Worth,EMP0283,melissa.smith@hotmail.com,001-989-459-6549x94254,West Robertside,WA
+CUS000106,Ellen,Bell,1982-05-18,2024-08-21,Mass Market,EMP0213,ellen.bell@yahoo.com,001-490-262-9025x4176,Stephanieside,WA
+CUS000107,Alicia,Carter,1962-05-18,2022-02-05,Ultra High Net Worth,EMP0352,alicia.carter@gmail.com,529.909.3949,Taylortown,NM
+CUS000108,Kathleen,Hunt,1993-05-17,2024-03-04,Affluent,EMP0416,kathleen.hunt@yahoo.com,972-527-3757,South Kathleen,FL
+CUS000109,Denise,Stewart,1957-05-17,2022-04-21,Mass Market,EMP0341,denise.stewart@hotmail.com,001-907-498-3053x0412,South Jeffery,WI
+CUS000110,David,Williams,1994-05-18,2023-03-29,Mass Market,EMP0080,david.williams@gmail.com,976.867.5663,Reillyhaven,TX
+CUS000111,Douglas,Bell,1972-05-17,2022-01-22,Mass Market,EMP0143,douglas.bell@yahoo.com,518-865-6032,Banksbury,OR
+CUS000112,Andrew,Chaney,1958-05-18,2023-09-09,Affluent,EMP0137,andrew.chaney@yahoo.com,918.928.2102,Smithborough,AK
+CUS000113,Jeremy,Hartman,1941-05-17,2021-12-19,Mass Market,EMP0446,jeremy.hartman@yahoo.com,(202)432-1513x6293,Lisaborough,GA
+CUS000114,Jimmy,Finley,1973-05-17,2020-03-03,Mass Market,EMP0272,jimmy.finley@yahoo.com,740.900.2356x28629,Lake Patrick,IN
+CUS000115,Nathan,White,2001-05-17,2021-09-30,Affluent,EMP0398,nathan.white@gmail.com,001-365-667-9588x68564,Cynthiafort,OR
+CUS000116,Ray,Thompson,1998-05-18,2023-06-19,Mass Market,EMP0042,ray.thompson@gmail.com,(834)715-9355,Lake Daniel,LA
+CUS000117,Reginald,Johnson,1982-05-18,2021-03-17,Affluent,EMP0059,reginald.johnson@hotmail.com,267-785-6943x4818,West Emmabury,MN
+CUS000118,Adam,Logan,1992-05-17,2021-09-23,Mass Market,EMP0203,adam.logan@gmail.com,268.874.4363x907,Mitchellhaven,RI
+CUS000119,Noah,Williams,1941-05-17,2024-04-20,Mass Market,EMP0131,noah.williams@hotmail.com,5252279474,New Kelli,ME
+CUS000120,Robert,Parker,1975-05-18,2020-12-25,Mass Market,EMP0273,robert.parker@gmail.com,997.245.5919,Port Matthewborough,VA
+CUS000121,Dawn,Powell,2004-05-17,2024-02-28,Mass Market,EMP0010,dawn.powell@yahoo.com,391-390-0774x38935,South Tracy,NJ
+CUS000122,Bryan,Maddox,1985-05-17,2023-12-24,Affluent,EMP0149,bryan.maddox@gmail.com,001-392-633-1694,Jamesview,DE
+CUS000123,Benjamin,Walsh,1965-05-17,2023-06-19,Mass Market,EMP0354,benjamin.walsh@hotmail.com,663-597-5468x53270,New Kristinside,MS
+CUS000124,Phillip,Castro,1982-05-18,2022-03-31,Mass Market,EMP0203,phillip.castro@gmail.com,836-881-7659,Brookemouth,MD
+CUS000125,Brandon,Taylor,1968-05-17,2020-06-05,Mass Market,EMP0059,brandon.taylor@hotmail.com,3854339208,New Daniel,ND
+CUS000126,Virginia,Morales,1989-05-17,2024-08-04,Affluent,EMP0076,virginia.morales@hotmail.com,297.709.2130x71911,Houseview,KS
+CUS000127,Dana,Tate,2006-05-18,2020-11-09,Affluent,EMP0336,dana.tate@hotmail.com,(720)256-0913x595,Garzaton,CA
+CUS000128,Brianna,Gomez,1960-05-17,2024-04-05,Mass Market,EMP0349,brianna.gomez@gmail.com,+1-769-688-7793x822,Hollytown,OR
+CUS000129,Steven,Moore,1956-05-17,2023-07-08,Mass Market,EMP0226,steven.moore@hotmail.com,916.860.8854x552,New Jenniferland,CA
+CUS000130,Larry,Sanford,1955-05-18,2023-04-26,Mass Market,EMP0260,larry.sanford@hotmail.com,9856251684,Lake Danielberg,CA
+CUS000131,Kendra,Barnes,2003-05-18,2024-08-30,Mass Market,EMP0331,kendra.barnes@hotmail.com,001-639-641-0750,Sanchezburgh,CO
+CUS000132,Diana,Jenkins,1976-05-17,2023-02-09,Ultra High Net Worth,EMP0379,diana.jenkins@yahoo.com,+1-594-696-4431,East Donald,AZ
+CUS000133,Samuel,Molina,1977-05-17,2022-09-01,Mass Market,EMP0491,samuel.molina@gmail.com,+1-519-604-2797,Laneland,AR
+CUS000134,Krystal,Mason,1940-05-17,2020-06-21,Mass Market,EMP0089,krystal.mason@yahoo.com,(269)446-8279x972,Farmertown,AZ
+CUS000135,Brian,Zamora,1981-05-17,2021-08-02,Mass Market,EMP0397,brian.zamora@hotmail.com,917-336-0389,Catherinechester,MI
+CUS000136,Paul,Murphy,1997-05-17,2020-07-12,Mass Market,EMP0198,paul.murphy@hotmail.com,+1-467-666-1449,South Cindyfurt,ME
+CUS000137,David,Simon,2003-05-18,2023-09-21,Mass Market,EMP0180,david.simon@hotmail.com,(388)603-7557x283,South Christina,MD
+CUS000138,Meghan,Ramos,1983-05-18,2022-02-10,Affluent,EMP0169,meghan.ramos@gmail.com,001-641-454-1029x532,East Melissa,FL
+CUS000139,Rachel,Hall,1979-05-18,2020-02-07,Mass Market,EMP0093,rachel.hall@gmail.com,001-595-357-2790x180,North Scottbury,IN
+CUS000140,Michael,Bowers,1943-05-18,2020-11-13,Mass Market,EMP0433,michael.bowers@yahoo.com,+1-590-895-4883x49436,Thomasmouth,CT
+CUS000141,Crystal,Romero,1952-05-17,2024-04-18,Affluent,EMP0306,crystal.romero@gmail.com,(971)650-2705x322,Andrewport,MO
+CUS000142,Jennifer,Gonzalez,1970-05-18,2020-03-30,Mass Market,EMP0347,jennifer.gonzalez@hotmail.com,+1-857-506-8238,Port Margaretberg,WA
+CUS000143,Matthew,Costa,1956-05-17,2024-05-24,Mass Market,EMP0274,matthew.costa@yahoo.com,(784)717-6486x8315,Ellisside,KS
+CUS000144,Douglas,Ali,1969-05-17,2023-03-14,Ultra High Net Worth,EMP0237,douglas.ali@gmail.com,(465)330-4658,Lake Tiffany,WY
+CUS000145,Jennifer,Leon,1937-05-17,2024-07-30,Mass Market,EMP0310,jennifer.leon@hotmail.com,(881)738-8790,New Nicole,FL
+CUS000146,Julia,Rodriguez,1955-05-18,2023-02-09,High Net Worth,EMP0365,julia.rodriguez@yahoo.com,903-297-1155,Gomezfurt,ND
+CUS000147,Michael,Hernandez,1986-05-18,2022-11-17,Mass Market,EMP0224,michael.hernandez@gmail.com,+1-920-440-5540,Chavezview,CO
+CUS000148,Emily,Rodriguez,1981-05-17,2022-03-22,Mass Market,EMP0121,emily.rodriguez@yahoo.com,001-961-668-1826x23253,Richardview,MO
+CUS000149,Trevor,Cox,1984-05-17,2020-07-21,Affluent,EMP0333,trevor.cox@yahoo.com,525.868.9842x9429,Adamsfurt,MI
+CUS000150,Vicki,Brown,1991-05-18,2024-08-26,Mass Market,EMP0426,vicki.brown@yahoo.com,5156761797,North David,FL
+CUS000151,Juan,Burke,1950-05-18,2020-02-08,Mass Market,EMP0428,juan.burke@gmail.com,+1-848-510-0594,Kevinview,GA
+CUS000152,Linda,Davis,1999-05-18,2021-08-13,Mass Market,EMP0063,linda.davis@yahoo.com,522-435-1582,New Carolmouth,AR
+CUS000153,Alejandro,Barnes,2004-05-17,2022-10-20,Mass Market,EMP0009,alejandro.barnes@gmail.com,001-397-515-9978x58822,Port Codyville,SD
+CUS000154,Catherine,Gallegos,1977-05-17,2020-01-04,Affluent,EMP0124,catherine.gallegos@hotmail.com,671.718.9426,Loribury,OR
+CUS000155,Angela,Rodriguez,1990-05-18,2022-01-08,Mass Market,EMP0270,angela.rodriguez@hotmail.com,+1-452-584-9935x2729,Taylormouth,OH
+CUS000156,Hannah,Green,1979-05-18,2022-08-20,Mass Market,EMP0199,hannah.green@gmail.com,001-909-574-8530,Smithmouth,MS
+CUS000157,Ryan,Davidson,1995-05-18,2024-02-10,Affluent,EMP0054,ryan.davidson@yahoo.com,+1-306-569-9152x3405,North Juliehaven,WY
+CUS000158,Mary,Pierce,1985-05-17,2021-11-24,Affluent,EMP0090,mary.pierce@yahoo.com,715-549-6620x004,South Charleschester,WY
+CUS000159,Thomas,Walsh,1953-05-17,2024-07-19,Mass Market,EMP0367,thomas.walsh@gmail.com,934-724-7652x255,Lake Joshuaville,WY
+CUS000160,Michael,Mosley,2000-05-17,2021-02-12,High Net Worth,EMP0162,michael.mosley@gmail.com,947.543.0711x30840,Torresfurt,MD
+CUS000161,Jennifer,Melendez,1983-05-18,2024-03-22,Affluent,EMP0147,jennifer.melendez@hotmail.com,+1-615-820-3942x5928,Lake Cheryl,MN
+CUS000162,David,Brady,1994-05-18,2024-06-25,Mass Market,EMP0456,david.brady@hotmail.com,630-684-8240x2549,New Jeremy,MT
+CUS000163,Lindsey,Ray,1940-05-17,2022-10-13,Affluent,EMP0189,lindsey.ray@yahoo.com,798.760.2536x80371,Shelleyville,ND
+CUS000164,Stacey,Lopez,2003-05-18,2023-05-18,Ultra High Net Worth,EMP0093,stacey.lopez@hotmail.com,001-296-600-3651x260,Lake Melissafurt,OH
+CUS000165,Amanda,Gonzalez,1985-05-17,2021-08-28,Mass Market,EMP0309,amanda.gonzalez@gmail.com,001-585-807-4622,East Christopherfurt,VA
+CUS000166,Robert,Meza,1990-05-18,2020-03-27,Affluent,EMP0467,robert.meza@hotmail.com,(692)608-5804x4256,North Marvinbury,MN
+CUS000167,Edgar,Vasquez,1998-05-18,2023-07-29,Mass Market,EMP0263,edgar.vasquez@gmail.com,976.365.4665,Gomezland,WV
+CUS000168,Elizabeth,Washington,1975-05-18,2023-10-20,Affluent,EMP0018,elizabeth.washington@yahoo.com,(872)528-3598x449,Rachelburgh,FL
+CUS000169,Angel,Rhodes,1988-05-17,2023-03-07,Mass Market,EMP0079,angel.rhodes@gmail.com,+1-720-473-1676x77953,East Isaiah,UT
+CUS000170,George,Lane,1964-05-17,2023-03-21,Mass Market,EMP0188,george.lane@gmail.com,001-395-720-6641x519,East Matthewstad,MT
+CUS000171,Michael,Hester,1943-05-18,2020-02-23,Affluent,EMP0256,michael.hester@yahoo.com,(528)857-9379x73414,Oconnellborough,ND
+CUS000172,Eric,Montgomery,1972-05-17,2023-12-12,Mass Market,EMP0314,eric.montgomery@gmail.com,440-759-8223,Aaronbury,ME
+CUS000173,Kendra,Kaiser,1996-05-17,2020-05-31,Mass Market,EMP0461,kendra.kaiser@yahoo.com,001-469-641-2994x78875,Andrewhaven,VA
+CUS000174,Sally,Evans,1950-05-18,2023-12-24,Mass Market,EMP0278,sally.evans@yahoo.com,(648)641-8984x026,Sullivanborough,ME
+CUS000175,Michael,Le,1953-05-17,2022-11-07,Mass Market,EMP0103,michael.le@hotmail.com,984.295.1048x71045,Lake Neilfurt,FL
+CUS000176,Patricia,Smith,1980-05-17,2022-01-25,Mass Market,EMP0283,patricia.smith@gmail.com,6808234828,Harrisonview,FL
+CUS000177,Melissa,Diaz,1993-05-17,2024-01-08,Affluent,EMP0270,melissa.diaz@hotmail.com,421.848.1658x26585,New Pamelamouth,NE
+CUS000178,Tamara,Fleming,1995-05-18,2021-10-11,Affluent,EMP0231,tamara.fleming@yahoo.com,6427756912,Lake Caroline,NJ
+CUS000179,Tanya,Thomas,1964-05-17,2024-05-16,Mass Market,EMP0301,tanya.thomas@yahoo.com,565-602-8223x56465,Tracyville,ID
+CUS000180,Allison,Richards,1962-05-18,2022-11-27,Mass Market,EMP0085,allison.richards@hotmail.com,721.733.7424x2815,Port Shannonland,HI
+CUS000181,Rick,Martinez,1964-05-17,2021-05-28,Mass Market,EMP0490,rick.martinez@gmail.com,465.256.7238,Matthewburgh,OK
+CUS000182,Audrey,Tanner,1955-05-18,2020-07-10,Mass Market,EMP0087,audrey.tanner@hotmail.com,622.941.2437,Port Marcoshire,PA
+CUS000183,Molly,Smith,1970-05-18,2023-02-28,Mass Market,EMP0443,molly.smith@hotmail.com,504.894.5306,Williamberg,AK
+CUS000184,Jesse,Jones,1955-05-18,2024-04-19,Mass Market,EMP0317,jesse.jones@hotmail.com,001-874-990-3842x470,Brianaville,SD
+CUS000185,Catherine,West,1955-05-18,2021-09-10,Mass Market,EMP0413,catherine.west@gmail.com,695.755.8139,North Calebhaven,UT
+CUS000186,Holly,Joyce,1961-05-17,2020-11-19,Mass Market,EMP0248,holly.joyce@yahoo.com,+1-740-202-1090x6358,Spencerland,NJ
+CUS000187,Ronald,Marshall,1985-05-17,2024-01-11,Mass Market,EMP0441,ronald.marshall@gmail.com,215.563.9891x32302,Christopherberg,MN
+CUS000188,Rebecca,Turner,1991-05-18,2020-08-05,Mass Market,EMP0239,rebecca.turner@yahoo.com,814.916.8938x50464,Ericafurt,DE
+CUS000189,Patty,Williams,2003-05-18,2021-08-17,High Net Worth,EMP0443,patty.williams@gmail.com,(686)817-3895,New Brianport,SC
+CUS000190,William,Ward,1940-05-17,2024-01-16,Mass Market,EMP0391,william.ward@yahoo.com,001-307-823-4515,Fieldsstad,HI
+CUS000191,Sarah,Johnson,1961-05-17,2022-10-15,Mass Market,EMP0484,sarah.johnson@yahoo.com,+1-414-843-0419x686,Johnfurt,MT
+CUS000192,Brenda,Campbell,1981-05-17,2020-04-09,Mass Market,EMP0254,brenda.campbell@gmail.com,(332)777-3171x122,East Ashley,RI
+CUS000193,Christopher,Johnson,1966-05-18,2022-06-01,Mass Market,EMP0136,christopher.johnson@yahoo.com,426.617.8682x7609,West Kristine,WA
+CUS000194,Christopher,Wood,1983-05-18,2023-03-13,Mass Market,EMP0186,christopher.wood@yahoo.com,+1-774-343-7062,East Eric,OK
+CUS000195,Crystal,Norton,1963-05-18,2021-07-26,Affluent,EMP0320,crystal.norton@hotmail.com,+1-609-378-1069x780,Fryeland,UT
+CUS000196,Melissa,Miller,1992-05-17,2024-06-15,Ultra High Net Worth,EMP0286,melissa.miller@gmail.com,3464410661,Fosterfurt,MS
+CUS000197,Ruben,Young,1991-05-18,2020-04-02,Mass Market,EMP0366,ruben.young@gmail.com,001-818-255-3287,Port Jason,MI
+CUS000198,Steven,Spencer,1995-05-18,2022-11-21,Mass Market,EMP0477,steven.spencer@gmail.com,001-864-979-7354,Greenville,SC
+CUS000199,April,Sullivan,1990-05-18,2022-11-04,Affluent,EMP0273,april.sullivan@gmail.com,(608)229-9557x330,East Andre,NY
+CUS000200,Kristin,Allen,1966-05-18,2022-01-24,Mass Market,EMP0057,kristin.allen@yahoo.com,719.749.2926x34162,Jonathonhaven,NE
+CUS000201,Gregory,Le,1986-05-18,2021-06-27,Ultra High Net Worth,EMP0401,gregory.le@gmail.com,247-814-9548,West Phillip,WY
+CUS000202,David,Matthews,1977-05-17,2020-12-15,Mass Market,EMP0370,david.matthews@yahoo.com,001-382-888-7631x08107,East Jennifertown,SC
+CUS000203,Destiny,Callahan,1995-05-18,2023-12-05,Mass Market,EMP0010,destiny.callahan@hotmail.com,836.831.3580x28170,East Richard,NH
+CUS000204,Tracy,Thompson,1971-05-18,2022-04-20,Mass Market,EMP0314,tracy.thompson@hotmail.com,551-560-5599x0520,New Marissachester,NM
+CUS000205,Chase,Cook,1994-05-18,2023-02-22,Mass Market,EMP0340,chase.cook@yahoo.com,001-900-760-8933x430,North Cathyburgh,NM
+CUS000206,Nicholas,Espinoza,1983-05-18,2022-12-27,Mass Market,EMP0182,nicholas.espinoza@hotmail.com,936.984.0784,Collinsmouth,UT
+CUS000207,Larry,Shepherd,1950-05-18,2021-01-28,Ultra High Net Worth,EMP0143,larry.shepherd@gmail.com,(245)568-1573,Leeview,OK
+CUS000208,Larry,Wallace,1966-05-18,2023-11-14,Affluent,EMP0163,larry.wallace@hotmail.com,652.868.8185,North Nancystad,NM
+CUS000209,Derrick,Ramirez,1978-05-18,2023-03-20,Affluent,EMP0195,derrick.ramirez@hotmail.com,(747)208-0576x33228,Lake Steven,MT
+CUS000210,Ryan,Pace,1991-05-18,2024-01-02,Mass Market,EMP0474,ryan.pace@gmail.com,001-445-804-0515x02938,South Leah,NH
+CUS000211,Alex,Nguyen,1987-05-18,2024-08-22,Mass Market,EMP0478,alex.nguyen@gmail.com,3259647916,Johnfort,OK
+CUS000212,Laura,Roberts,1971-05-18,2023-04-16,Mass Market,EMP0026,laura.roberts@hotmail.com,997.238.4219x91750,Jonesburgh,TX
+CUS000213,Jonathan,Lynch,1999-05-18,2022-04-26,Mass Market,EMP0242,jonathan.lynch@hotmail.com,712-498-3379x629,New Melissachester,CT
+CUS000214,John,Houston,1991-05-18,2022-09-01,Mass Market,EMP0103,john.houston@hotmail.com,(725)566-3601x6514,Jenniferberg,WI
+CUS000215,Rick,Shelton,1949-05-17,2020-07-02,Affluent,EMP0119,rick.shelton@yahoo.com,296-318-0049,Johnland,OH
+CUS000216,Rebecca,Pena,1970-05-18,2020-12-26,High Net Worth,EMP0019,rebecca.pena@hotmail.com,(978)899-5030x361,Cobbtown,MT
+CUS000217,Cameron,Cochran,1970-05-18,2020-01-19,Mass Market,EMP0309,cameron.cochran@gmail.com,325.999.1962x9049,Angelafurt,CT
+CUS000218,Makayla,King,1961-05-17,2020-10-01,High Net Worth,EMP0240,makayla.king@yahoo.com,(853)617-8244x685,North Travisbury,LA
+CUS000219,David,Hernandez,1965-05-17,2023-08-20,Mass Market,EMP0096,david.hernandez@gmail.com,+1-752-658-6074,Lake Nicole,AL
+CUS000220,Danielle,Proctor,1985-05-17,2024-03-30,Mass Market,EMP0313,danielle.proctor@hotmail.com,(518)473-2353x8153,Lake Hollytown,SD
+CUS000221,Dustin,Vincent,2001-05-17,2023-10-02,Mass Market,EMP0072,dustin.vincent@yahoo.com,566-390-1702,New Peterburgh,NM
+CUS000222,Jennifer,Sanders,1988-05-17,2022-07-03,Affluent,EMP0489,jennifer.sanders@yahoo.com,(306)650-2676x2975,North Makaylafort,MI
+CUS000223,Maria,Dawson,1977-05-17,2022-01-06,Affluent,EMP0032,maria.dawson@yahoo.com,283-754-1768x42972,South Stephen,TX
+CUS000224,Seth,Cameron,1981-05-17,2022-10-26,High Net Worth,EMP0455,seth.cameron@hotmail.com,646.892.9975x494,Lake Kimbury,VA
+CUS000225,Jennifer,Hodges,1953-05-17,2021-08-27,Mass Market,EMP0114,jennifer.hodges@yahoo.com,438-272-4460x426,Simonville,IA
+CUS000226,Miranda,Day,1971-05-18,2023-05-25,Mass Market,EMP0360,miranda.day@hotmail.com,+1-722-821-2195x17037,South Davidburgh,OK
+CUS000227,Amber,Harper,1950-05-18,2023-10-25,Affluent,EMP0448,amber.harper@yahoo.com,+1-712-486-0293x8816,Yolandabury,CO
+CUS000228,Felicia,Palmer,1999-05-18,2023-03-01,Mass Market,EMP0425,felicia.palmer@yahoo.com,392.889.4202x612,Lindaview,OK
+CUS000229,Julie,Mcclure,1999-05-18,2022-12-01,Mass Market,EMP0349,julie.mcclure@hotmail.com,001-821-482-8858x069,Port Gabriellaside,IN
+CUS000230,Rebekah,Hays,1960-05-17,2022-07-01,Affluent,EMP0233,rebekah.hays@gmail.com,688.263.6027,Port Josephberg,FL
+CUS000231,Alexander,James,1982-05-18,2023-10-09,Affluent,EMP0371,alexander.james@hotmail.com,(790)591-6474x058,Leonardbury,AK
+CUS000232,Brian,Mccoy,1987-05-18,2020-04-02,Mass Market,EMP0359,brian.mccoy@yahoo.com,846.331.4157x87257,East Karen,CA
+CUS000233,Zachary,Davis,1999-05-18,2022-04-17,Mass Market,EMP0070,zachary.davis@hotmail.com,283-478-3892x269,Rochaland,WY
+CUS000234,Blake,Contreras,1939-05-18,2022-02-22,Mass Market,EMP0470,blake.contreras@gmail.com,+1-633-969-4574x613,Michaelport,MO
+CUS000235,Alexis,Martinez,1954-05-18,2021-12-13,Mass Market,EMP0276,alexis.martinez@hotmail.com,(680)205-0325,South Hayleyville,MT
+CUS000236,Adam,Montgomery,1952-05-17,2024-03-28,Mass Market,EMP0153,adam.montgomery@yahoo.com,(519)254-0333,West Brandy,NJ
+CUS000237,Devin,Snyder,1962-05-18,2021-05-21,Mass Market,EMP0080,devin.snyder@yahoo.com,5856384535,Harmonburgh,LA
+CUS000238,Andrew,Mitchell,1974-05-18,2020-02-02,Mass Market,EMP0035,andrew.mitchell@hotmail.com,403-463-8784x0043,Bradleyberg,CT
+CUS000239,Thomas,Hanna,1994-05-18,2020-03-31,Mass Market,EMP0120,thomas.hanna@hotmail.com,(539)504-6505x61396,Port Hailey,OH
+CUS000240,David,Hopkins,1994-05-18,2024-02-07,Mass Market,EMP0296,david.hopkins@yahoo.com,644.548.7230,West Andrew,RI
+CUS000241,Jacob,Rubio,1968-05-17,2023-09-14,Mass Market,EMP0212,jacob.rubio@gmail.com,(311)238-2067x6382,Sonyafort,MD
+CUS000242,Calvin,Davis,1958-05-18,2022-05-24,Mass Market,EMP0025,calvin.davis@hotmail.com,(571)208-2500x54811,Johnmouth,MN
+CUS000243,Cynthia,Huff,1950-05-18,2022-04-16,Mass Market,EMP0193,cynthia.huff@hotmail.com,(259)656-2133x07365,East Jessica,ID
+CUS000244,Kevin,Johnson,1960-05-17,2021-09-07,High Net Worth,EMP0074,kevin.johnson@yahoo.com,(508)385-2796,New Stephenhaven,NJ
+CUS000245,Connie,Spence,1978-05-18,2020-10-01,Mass Market,EMP0131,connie.spence@gmail.com,+1-823-319-6289x0319,East Douglas,IN
+CUS000246,Jason,Cortez,1973-05-17,2020-07-08,Mass Market,EMP0425,jason.cortez@gmail.com,958.263.2960,Mackland,IL
+CUS000247,Wesley,Vaughn,1963-05-18,2021-01-20,Affluent,EMP0301,wesley.vaughn@hotmail.com,001-829-444-7543x41589,Baileyfurt,WA
+CUS000248,Brittany,Ortega,1978-05-18,2021-11-12,Mass Market,EMP0466,brittany.ortega@gmail.com,334-247-8059x16671,North Nicoleburgh,AL
+CUS000249,Katherine,Fisher,1952-05-17,2024-03-24,Mass Market,EMP0125,katherine.fisher@yahoo.com,+1-258-361-3775,West Sylvia,VT
+CUS000250,Daniel,Shaffer,1989-05-17,2024-05-07,Mass Market,EMP0239,daniel.shaffer@gmail.com,558-999-4857x35493,New Ashleyberg,OH
+CUS000251,Patricia,Love,1984-05-17,2022-10-15,Mass Market,EMP0412,patricia.love@yahoo.com,(303)713-6532,New Clarenceland,WA
+CUS000252,Courtney,Johnson,1985-05-17,2020-04-03,Mass Market,EMP0114,courtney.johnson@gmail.com,688.609.6237x5545,Sheliatown,WV
+CUS000253,Zachary,Ford,1995-05-18,2021-02-05,Mass Market,EMP0195,zachary.ford@hotmail.com,401.950.8494x4525,Hernandezland,OR
+CUS000254,Monique,Frederick,1980-05-17,2024-08-09,Mass Market,EMP0371,monique.frederick@gmail.com,406-403-8399,Myersmouth,TN
+CUS000255,Jonathan,Mathews,1961-05-17,2021-12-22,Mass Market,EMP0369,jonathan.mathews@hotmail.com,+1-410-236-5676x04884,New Sarah,OH
+CUS000256,Elizabeth,Grant,1990-05-18,2020-06-01,High Net Worth,EMP0343,elizabeth.grant@hotmail.com,001-464-998-6899,South Nathan,AR
+CUS000257,Amanda,Wolfe,1962-05-18,2021-04-18,Mass Market,EMP0078,amanda.wolfe@gmail.com,6538775226,Johnstonland,AL
+CUS000258,Grace,Miller,2004-05-17,2023-07-30,Affluent,EMP0316,grace.miller@hotmail.com,362-911-6938x3037,West Sara,NM
+CUS000259,Michelle,Clark,1980-05-17,2022-04-22,Mass Market,EMP0272,michelle.clark@gmail.com,(365)285-9212x8001,South Tammyberg,WA
+CUS000260,Jonathan,Martinez,1978-05-18,2023-11-30,Affluent,EMP0413,jonathan.martinez@yahoo.com,(243)604-8797,West Kenneth,ID
+CUS000261,Samantha,Rodriguez,1992-05-17,2023-06-23,Mass Market,EMP0418,samantha.rodriguez@hotmail.com,582.779.3793,Port Gregorytown,MN
+CUS000262,Alexandria,Ramirez,1939-05-18,2022-07-29,Mass Market,EMP0357,alexandria.ramirez@hotmail.com,001-441-478-4223x4914,North Dennis,IA
+CUS000263,Michael,Robinson,2003-05-18,2022-02-15,Mass Market,EMP0244,michael.robinson@gmail.com,6783057683,East Morganland,AR
+CUS000264,Melissa,Gray,1997-05-17,2022-06-07,Affluent,EMP0170,melissa.gray@hotmail.com,3974936323,North Tamara,OR
+CUS000265,Sharon,Brown,1979-05-18,2023-11-18,High Net Worth,EMP0244,sharon.brown@hotmail.com,703.813.8744,Mcintoshfurt,LA
+CUS000266,Heather,Horton,1954-05-18,2023-02-28,Affluent,EMP0092,heather.horton@yahoo.com,981-474-4303x704,Port Jessica,MA
+CUS000267,Nancy,Stanley,1957-05-17,2023-12-30,Affluent,EMP0476,nancy.stanley@hotmail.com,817.270.7833x520,East Danielbury,CA
+CUS000268,Samantha,Grant,1990-05-18,2022-03-07,Affluent,EMP0277,samantha.grant@gmail.com,(361)229-7359,Scotthaven,MI
+CUS000269,Kaitlyn,Sanchez,1991-05-18,2021-12-09,Mass Market,EMP0224,kaitlyn.sanchez@hotmail.com,770.555.8185x235,North Tamara,IA
+CUS000270,Kimberly,Henderson,1938-05-18,2021-10-30,Mass Market,EMP0140,kimberly.henderson@hotmail.com,520.549.4100x103,South Brittanyfort,NH
+CUS000271,Sabrina,Ortega,1988-05-17,2023-10-24,Mass Market,EMP0195,sabrina.ortega@hotmail.com,+1-275-613-4193x1565,Janeside,CO
+CUS000272,Alec,Mendoza,1966-05-18,2020-06-17,Mass Market,EMP0195,alec.mendoza@hotmail.com,001-327-997-6772x6900,New Deborah,VA
+CUS000273,Melissa,Ramos,1975-05-18,2020-08-06,Mass Market,EMP0483,melissa.ramos@hotmail.com,+1-603-951-3581x425,Angelahaven,MD
+CUS000274,Debra,Chambers,2000-05-17,2020-06-27,Mass Market,EMP0230,debra.chambers@yahoo.com,822-290-9555,Brandonville,OK
+CUS000275,Thomas,Macdonald,1999-05-18,2021-12-25,Mass Market,EMP0306,thomas.macdonald@hotmail.com,2264240624,Monteschester,RI
+CUS000276,Kim,Saunders,1985-05-17,2022-03-05,Affluent,EMP0372,kim.saunders@gmail.com,001-738-961-2766x016,East Stevehaven,OK
+CUS000277,Crystal,Hunter,1959-05-18,2020-12-13,Mass Market,EMP0155,crystal.hunter@yahoo.com,211-425-6071x61318,West Elizabethtown,LA
+CUS000278,Andrew,Meza,1991-05-18,2022-05-12,Mass Market,EMP0401,andrew.meza@gmail.com,484.558.0440,East Judy,CA
+CUS000279,Scott,Ayala,1987-05-18,2021-02-04,Mass Market,EMP0070,scott.ayala@gmail.com,(266)801-9699x996,Juliantown,MD
+CUS000280,Alyssa,Marquez,1965-05-17,2021-11-05,Mass Market,EMP0221,alyssa.marquez@hotmail.com,+1-637-235-0333x1466,Millerburgh,TN
+CUS000281,Dan,Davidson,1966-05-18,2023-11-24,Mass Market,EMP0161,dan.davidson@gmail.com,2874383580,East Davidfort,ID
+CUS000282,Tracy,Houston,1935-05-18,2024-05-20,Mass Market,EMP0193,tracy.houston@yahoo.com,(919)555-2351,Port Stephanieborough,LA
+CUS000283,David,Rocha,1947-05-18,2021-02-13,Mass Market,EMP0280,david.rocha@gmail.com,(236)825-9635,New Alan,ID
+CUS000284,Eric,Barnes,1936-05-17,2021-03-05,Mass Market,EMP0150,eric.barnes@gmail.com,+1-721-359-6429,Lake Jessica,VT
+CUS000285,Jessica,Johnson,2006-05-18,2021-09-12,Mass Market,EMP0338,jessica.johnson@hotmail.com,(690)726-2242,East Matthewside,GA
+CUS000286,William,Ramirez,1996-05-17,2023-05-09,Mass Market,EMP0206,william.ramirez@yahoo.com,(781)696-0505,Jeffreyhaven,OH
+CUS000287,Gina,Henry,1958-05-18,2022-01-06,Affluent,EMP0416,gina.henry@gmail.com,+1-442-983-5892x6713,South George,OH
+CUS000288,Eddie,Smith,1973-05-17,2023-09-08,Affluent,EMP0086,eddie.smith@hotmail.com,833-454-7494,New Christopherbury,TN
+CUS000289,Julie,Wyatt,1938-05-18,2021-11-10,Ultra High Net Worth,EMP0221,julie.wyatt@hotmail.com,237-584-7729x74954,South Peter,CT
+CUS000290,Ian,Santos,1992-05-17,2022-11-28,Mass Market,EMP0353,ian.santos@yahoo.com,764-253-8903x44695,Christineton,OR
+CUS000291,Chris,Anderson,1981-05-17,2023-10-23,Mass Market,EMP0257,chris.anderson@yahoo.com,001-933-457-2304,West Dawnmouth,GA
+CUS000292,Karen,Thomas,1995-05-18,2020-06-24,Mass Market,EMP0482,karen.thomas@yahoo.com,357-558-1094,South Brianfort,WA
+CUS000293,Joshua,Roach,1984-05-17,2021-02-27,Mass Market,EMP0179,joshua.roach@gmail.com,623.845.8951x1726,Port Joseph,NM
+CUS000294,Andrew,Hickman,1981-05-17,2021-09-06,Mass Market,EMP0364,andrew.hickman@hotmail.com,9162482071,Jonathanshire,DE
+CUS000295,Michelle,Hahn,1955-05-18,2020-12-02,High Net Worth,EMP0380,michelle.hahn@gmail.com,5553971232,Jeffreymouth,KS
+CUS000296,Jeffrey,Black,1990-05-18,2022-05-23,Ultra High Net Worth,EMP0119,jeffrey.black@hotmail.com,+1-588-752-6013x6446,Wallacestad,MT
+CUS000297,David,Ruiz,1990-05-18,2024-02-19,Affluent,EMP0102,david.ruiz@hotmail.com,619.472.3455x305,New Tiffanyborough,NH
+CUS000298,Jill,Chambers,1963-05-18,2021-02-25,Mass Market,EMP0361,jill.chambers@hotmail.com,947-661-6101x63636,Amberbury,CA
+CUS000299,Andrew,Rose,1992-05-17,2021-02-07,Mass Market,EMP0135,andrew.rose@yahoo.com,944-895-1345,New Autumntown,TX
+CUS000300,Michael,Moody,1979-05-18,2023-06-05,Mass Market,EMP0059,michael.moody@yahoo.com,001-616-992-7466x2572,Martinezville,MN
+CUS000301,Justin,Green,1956-05-17,2023-12-16,Affluent,EMP0471,justin.green@yahoo.com,411.278.5578x864,West Johnmouth,SC
+CUS000302,Steven,Allen,1993-05-17,2021-05-03,Mass Market,EMP0094,steven.allen@yahoo.com,+1-740-518-2505x353,West Rachel,MS
+CUS000303,Jared,Rodriguez,1991-05-18,2020-10-09,Mass Market,EMP0217,jared.rodriguez@gmail.com,(766)776-7178,North Ryanshire,ID
+CUS000304,Erica,Weaver,1975-05-18,2022-09-29,Mass Market,EMP0096,erica.weaver@yahoo.com,7093764825,Wardhaven,MA
+CUS000305,Thomas,Frost,1939-05-18,2022-09-19,Mass Market,EMP0418,thomas.frost@yahoo.com,7022385274,Phillipsborough,MO
+CUS000306,Jennifer,Sanders,1979-05-18,2022-10-04,Mass Market,EMP0431,jennifer.sanders@hotmail.com,986-224-3559,Hollowaymouth,NH
+CUS000307,Joshua,Hudson,1973-05-17,2021-03-27,Mass Market,EMP0141,joshua.hudson@hotmail.com,433-705-7684,Robertsstad,IA
+CUS000308,Austin,Brown,1986-05-18,2024-05-01,Affluent,EMP0282,austin.brown@hotmail.com,930.629.5071,South Michaelbury,NC
+CUS000309,Kimberly,Jones,1972-05-17,2024-08-13,Ultra High Net Worth,EMP0278,kimberly.jones@hotmail.com,669.398.1711x749,Hernandezburgh,WI
+CUS000310,Jeffrey,Tanner,1944-05-17,2020-07-28,Affluent,EMP0335,jeffrey.tanner@hotmail.com,(906)750-2632x684,North Traci,WI
+CUS000311,Kimberly,Howell,1986-05-18,2024-07-30,Mass Market,EMP0444,kimberly.howell@yahoo.com,(970)324-2312,Adamsville,DE
+CUS000312,Michael,Simon,1969-05-17,2023-06-03,Affluent,EMP0085,michael.simon@yahoo.com,001-656-747-4984x8757,Tonyaside,SC
+CUS000313,Alisha,Becker,1989-05-17,2022-12-26,Mass Market,EMP0276,alisha.becker@gmail.com,(621)740-0630x141,Lake Bryan,HI
+CUS000314,Samuel,Caldwell,1942-05-18,2022-11-19,Ultra High Net Worth,EMP0348,samuel.caldwell@hotmail.com,+1-510-825-1128x4469,Lake James,CT
+CUS000315,Tiffany,Hill,1974-05-18,2020-09-16,Affluent,EMP0068,tiffany.hill@gmail.com,(948)334-6556,Jenniferton,KS
+CUS000316,Karen,Johnson,1985-05-17,2023-03-28,Affluent,EMP0322,karen.johnson@yahoo.com,965.941.4717,Rickychester,NE
+CUS000317,Kevin,David,1981-05-17,2024-03-15,Mass Market,EMP0480,kevin.david@hotmail.com,606.581.6004x4162,Lake Phyllisland,MS
+CUS000318,Emily,Reeves,1965-05-17,2024-02-09,Mass Market,EMP0498,emily.reeves@hotmail.com,437.201.6912x982,North Courtney,NJ
+CUS000319,Natalie,Graham,1984-05-17,2022-05-29,Affluent,EMP0254,natalie.graham@gmail.com,+1-809-659-4132,Heatherburgh,LA
+CUS000320,Robert,Murray,1986-05-18,2022-09-20,Affluent,EMP0458,robert.murray@yahoo.com,478-866-6318,North Christinechester,UT
+CUS000321,Melissa,Rogers,1974-05-18,2022-07-30,Mass Market,EMP0476,melissa.rogers@hotmail.com,+1-509-465-4869x10547,Brittanyland,HI
+CUS000322,Bradley,Bradford,1981-05-17,2023-11-11,High Net Worth,EMP0452,bradley.bradford@gmail.com,(689)740-4349x575,North Tammyland,TN
+CUS000323,Brandon,Patterson,1967-05-18,2021-05-27,Mass Market,EMP0341,brandon.patterson@gmail.com,468.867.4318x4994,East Anthonymouth,TN
+CUS000324,James,Trujillo,1963-05-18,2024-03-26,Mass Market,EMP0336,james.trujillo@hotmail.com,001-350-434-6710,Kingport,CO
+CUS000325,Philip,Colon,1992-05-17,2020-09-28,Mass Market,EMP0266,philip.colon@yahoo.com,952.687.6577x7689,Lake Rachelhaven,UT
+CUS000326,Laurie,Bowers,1975-05-18,2022-05-14,Affluent,EMP0245,laurie.bowers@hotmail.com,+1-804-963-8615x252,Justinborough,CA
+CUS000327,Amy,Taylor,2004-05-17,2022-01-22,High Net Worth,EMP0071,amy.taylor@hotmail.com,(329)659-0326x629,Lake Patrick,MO
+CUS000328,Jeffrey,Morales,1995-05-18,2023-02-27,Mass Market,EMP0333,jeffrey.morales@hotmail.com,749.227.1901x9811,Stephenfurt,HI
+CUS000329,Kimberly,Medina,1952-05-17,2020-11-06,High Net Worth,EMP0316,kimberly.medina@hotmail.com,516-602-3906x431,Johnsonchester,UT
+CUS000330,Erica,West,2000-05-17,2020-09-09,Mass Market,EMP0197,erica.west@gmail.com,+1-634-256-8081,Roberthaven,MN
+CUS000331,Joshua,Black,1985-05-17,2023-08-13,Mass Market,EMP0284,joshua.black@yahoo.com,8787014059,Jacobton,RI
+CUS000332,Greg,Dodson,1966-05-18,2023-09-10,High Net Worth,EMP0106,greg.dodson@gmail.com,404.494.3822,Princeshire,ND
+CUS000333,Laura,Taylor,1979-05-18,2020-04-21,Affluent,EMP0407,laura.taylor@yahoo.com,324.687.8134,East Danielstad,KS
+CUS000334,Kimberly,Kennedy,1983-05-18,2023-05-01,Mass Market,EMP0456,kimberly.kennedy@yahoo.com,(312)559-3490x03843,Lake Nathaniel,AL
+CUS000335,Gregory,Swanson,1971-05-18,2023-03-10,Mass Market,EMP0280,gregory.swanson@hotmail.com,001-635-892-2503x37408,Christopherport,UT
+CUS000336,Sara,Roberts,2005-05-17,2020-05-18,Mass Market,EMP0111,sara.roberts@yahoo.com,+1-721-570-5070x60213,Delgadoberg,AZ
+CUS000337,Patty,Garcia,1959-05-18,2022-10-23,Affluent,EMP0217,patty.garcia@gmail.com,509-389-0701x634,Port Brandon,VT
+CUS000338,Victoria,Leonard,1993-05-17,2021-09-26,Mass Market,EMP0472,victoria.leonard@yahoo.com,(906)877-7617x678,Richardsonfort,IN
+CUS000339,Jessica,Roy,1991-05-18,2023-07-23,Affluent,EMP0333,jessica.roy@gmail.com,(322)428-5457,Port Anthony,UT
+CUS000340,Aaron,Fox,1966-05-18,2021-05-03,Mass Market,EMP0045,aaron.fox@gmail.com,+1-325-289-1245x9898,West Amanda,NV
+CUS000341,Paul,Mckay,1981-05-17,2024-02-27,Affluent,EMP0090,paul.mckay@gmail.com,368.638.9470x003,Carolynland,DE
+CUS000342,John,Sanchez,2007-05-18,2021-12-11,Mass Market,EMP0401,john.sanchez@yahoo.com,252-538-0971x438,East Lisaberg,WA
+CUS000343,John,Richards,1964-05-17,2021-07-04,Affluent,EMP0061,john.richards@yahoo.com,842-682-4842,Butlerfurt,WY
+CUS000344,Donna,Garcia,1985-05-17,2020-05-10,Mass Market,EMP0500,donna.garcia@hotmail.com,001-364-399-5319,Alexandraville,OR
+CUS000345,Kelly,Livingston,1993-05-17,2020-04-23,Mass Market,EMP0291,kelly.livingston@gmail.com,+1-797-535-6865x6900,New Valerie,HI
+CUS000346,David,Juarez,1967-05-18,2023-10-12,Affluent,EMP0117,david.juarez@hotmail.com,321-607-3809x117,South Erikamouth,WV
+CUS000347,Brian,Miller,1995-05-18,2022-08-24,Mass Market,EMP0472,brian.miller@yahoo.com,415.909.7471,West Heidiville,GA
+CUS000348,Jonathan,Walton,1994-05-18,2021-05-23,Mass Market,EMP0369,jonathan.walton@yahoo.com,4455175899,Fuentesside,MA
+CUS000349,Scott,Leon,2003-05-18,2023-10-10,High Net Worth,EMP0092,scott.leon@gmail.com,552-962-1936x081,South Brandyside,IA
+CUS000350,Mary,Austin,1995-05-18,2022-08-10,High Net Worth,EMP0397,mary.austin@gmail.com,001-583-803-4299x89532,Lake Robinfurt,MD
+CUS000351,Ashley,Spencer,2002-05-18,2021-02-14,Mass Market,EMP0402,ashley.spencer@yahoo.com,421-711-4545,East Victoriashire,MD
+CUS000352,Kara,Watson,1976-05-17,2022-10-07,Ultra High Net Worth,EMP0398,kara.watson@gmail.com,4937489812,West Jeremy,IL
+CUS000353,Zachary,Hernandez,1996-05-17,2022-04-19,Mass Market,EMP0278,zachary.hernandez@hotmail.com,+1-767-580-8506x026,Meganfurt,MN
+CUS000354,Richard,Dorsey,1965-05-17,2022-02-09,Affluent,EMP0373,richard.dorsey@gmail.com,001-995-577-3962,West Derrick,MD
+CUS000355,Molly,Garcia,1989-05-17,2020-05-02,Ultra High Net Worth,EMP0073,molly.garcia@yahoo.com,6367231038,Lake Frank,VA
+CUS000356,Melissa,Mcdonald,1974-05-18,2022-11-30,Mass Market,EMP0459,melissa.mcdonald@hotmail.com,442.920.4516x948,Karamouth,MS
+CUS000357,Timothy,White,1993-05-17,2023-07-29,Affluent,EMP0039,timothy.white@yahoo.com,+1-838-325-4455x129,Hallview,PA
+CUS000358,Jessica,Hernandez,1994-05-18,2021-06-18,High Net Worth,EMP0475,jessica.hernandez@gmail.com,382.392.0823x29009,Port Melinda,MT
+CUS000359,Jonathan,Jackson,1985-05-17,2020-06-01,High Net Worth,EMP0070,jonathan.jackson@yahoo.com,+1-906-576-0854x7169,Bradleyberg,WY
+CUS000360,Betty,Kim,1995-05-18,2022-07-09,Mass Market,EMP0209,betty.kim@yahoo.com,757.998.1267,Huntmouth,DE
+CUS000361,Brandon,Edwards,1984-05-17,2022-08-06,Mass Market,EMP0062,brandon.edwards@yahoo.com,5039747053,Port Samanthachester,CO
+CUS000362,Jodi,Davis,1986-05-18,2021-11-02,Mass Market,EMP0365,jodi.davis@yahoo.com,001-824-368-7282x2289,North Jessica,KS
+CUS000363,Victor,Bridges,1959-05-18,2021-06-16,Affluent,EMP0090,victor.bridges@hotmail.com,(985)673-3451,Lake Davidland,AK
+CUS000364,Brandon,Dean,2001-05-17,2020-07-27,Affluent,EMP0072,brandon.dean@yahoo.com,001-908-281-8554x9471,Port Chad,DE
+CUS000365,Joanna,Gay,2007-05-18,2024-08-13,Mass Market,EMP0352,joanna.gay@hotmail.com,+1-325-336-2511x4079,South Georgemouth,SD
+CUS000366,Brittany,Ellis,1942-05-18,2020-06-02,Mass Market,EMP0034,brittany.ellis@hotmail.com,920.534.1394x336,Annachester,IL
+CUS000367,Jason,Nielsen,1997-05-17,2024-08-25,Affluent,EMP0063,jason.nielsen@yahoo.com,+1-224-702-4656x0845,Gordonton,AZ
+CUS000368,Alan,Carlson,1970-05-18,2022-03-19,Mass Market,EMP0196,alan.carlson@yahoo.com,001-927-328-8764,Lake Jodimouth,UT
+CUS000369,Melissa,Lloyd,1944-05-17,2021-07-17,Mass Market,EMP0453,melissa.lloyd@hotmail.com,358-364-1446x1565,Nancyborough,GA
+CUS000370,Angela,Allen,1956-05-17,2022-10-18,Mass Market,EMP0282,angela.allen@yahoo.com,560-595-4435,South Chelsea,NM
+CUS000371,Gloria,Lawrence,2007-05-18,2021-02-12,Affluent,EMP0409,gloria.lawrence@gmail.com,+1-363-620-8443x50311,South Mariebury,ND
+CUS000372,James,Smith,1950-05-18,2024-05-20,Affluent,EMP0246,james.smith@hotmail.com,424.336.0038x0484,Gutierrezhaven,OH
+CUS000373,Sarah,Hill,1980-05-17,2021-01-03,Mass Market,EMP0306,sarah.hill@hotmail.com,001-890-976-3077,Perezville,IA
+CUS000374,Maria,Thompson,1987-05-18,2024-04-19,Mass Market,EMP0120,maria.thompson@hotmail.com,001-430-852-7499x7937,Stacymouth,HI
+CUS000375,Charles,Morton,1988-05-17,2024-07-29,Affluent,EMP0378,charles.morton@hotmail.com,292-465-5499x715,Johnland,AR
+CUS000376,Mark,Brown,1988-05-17,2020-12-21,Mass Market,EMP0304,mark.brown@gmail.com,(345)426-6453,Port Carlos,MA
+CUS000377,Robert,Kennedy,1957-05-17,2021-12-21,High Net Worth,EMP0289,robert.kennedy@yahoo.com,001-350-961-2641x27505,Port Danielle,GA
+CUS000378,Sean,Smith,1989-05-17,2020-12-25,Mass Market,EMP0047,sean.smith@yahoo.com,487.402.3760,North Kristinberg,AR
+CUS000379,Jennifer,Roberson,1976-05-17,2020-01-02,Mass Market,EMP0315,jennifer.roberson@gmail.com,+1-455-282-8998x981,South Mary,IL
+CUS000380,Tyler,Fuller,1945-05-17,2021-10-24,Mass Market,EMP0076,tyler.fuller@hotmail.com,770-263-5068x053,Brittanyfurt,PA
+CUS000381,James,Thompson,1951-05-18,2022-01-17,Ultra High Net Worth,EMP0192,james.thompson@gmail.com,708.788.3468x29849,Brianstad,VA
+CUS000382,Laura,Stone,1983-05-18,2021-10-22,Mass Market,EMP0081,laura.stone@gmail.com,(792)399-6767,Port Heather,WA
+CUS000383,Jonathan,Wilson,2001-05-17,2023-02-24,Affluent,EMP0476,jonathan.wilson@yahoo.com,001-700-694-8876x562,Hammondmouth,SC
+CUS000384,Crystal,Hill,1984-05-17,2024-02-12,Affluent,EMP0066,crystal.hill@hotmail.com,001-336-375-0472,Jimmyland,ID
+CUS000385,Christopher,Sanchez,1953-05-17,2024-04-27,Ultra High Net Worth,EMP0017,christopher.sanchez@yahoo.com,+1-613-294-9046x84497,Johnsonview,ID
+CUS000386,Peggy,Watts,1950-05-18,2020-08-01,High Net Worth,EMP0073,peggy.watts@gmail.com,+1-788-429-6820x8029,Norrismouth,MI
+CUS000387,Shannon,Burnett,1939-05-18,2020-12-09,Affluent,EMP0494,shannon.burnett@hotmail.com,001-351-675-3789,Justinmouth,CO
+CUS000388,Jennifer,Wong,1975-05-18,2021-06-27,Mass Market,EMP0355,jennifer.wong@hotmail.com,789-584-9334,South David,CA
+CUS000389,Catherine,Peck,1950-05-18,2020-04-08,Mass Market,EMP0376,catherine.peck@yahoo.com,(699)523-7360x05167,New Ivan,NE
+CUS000390,Howard,Thomas,1982-05-18,2022-02-07,Mass Market,EMP0246,howard.thomas@hotmail.com,258-652-7180x59514,West Thomasport,OR
+CUS000391,Adam,Eaton,1997-05-17,2020-03-09,Mass Market,EMP0164,adam.eaton@gmail.com,919.600.8726x1114,Samuelview,KY
+CUS000392,Jennifer,Gonzalez,1965-05-17,2020-11-25,Affluent,EMP0281,jennifer.gonzalez@yahoo.com,519.350.4280,Mclaughlinburgh,CO
+CUS000393,Sarah,Welch,1956-05-17,2022-06-02,High Net Worth,EMP0085,sarah.welch@hotmail.com,001-463-449-8997x94669,Brettville,RI
+CUS000394,Heather,Harrison,1990-05-18,2021-01-24,Mass Market,EMP0284,heather.harrison@hotmail.com,001-226-956-5726x72767,North Paulahaven,WA
+CUS000395,Douglas,Petersen,1978-05-18,2020-07-15,Mass Market,EMP0293,douglas.petersen@yahoo.com,+1-794-923-1394x5021,West Craighaven,OK
+CUS000396,Crystal,Sanchez,2000-05-17,2020-06-28,Mass Market,EMP0339,crystal.sanchez@gmail.com,001-413-464-1651x601,Alexandraburgh,SD
+CUS000397,Linda,Cain,1998-05-18,2020-12-15,Affluent,EMP0042,linda.cain@yahoo.com,8012352045,New Daisychester,NM
+CUS000398,Judy,Hernandez,1986-05-18,2023-09-15,Mass Market,EMP0329,judy.hernandez@yahoo.com,835.454.2516x76051,Rebeccaport,OH
+CUS000399,Jane,Parker,1990-05-18,2022-07-01,Mass Market,EMP0226,jane.parker@yahoo.com,5647341727,West James,NJ
+CUS000400,Alexandra,Mckenzie,2003-05-18,2023-11-27,Affluent,EMP0044,alexandra.mckenzie@yahoo.com,842.340.8724x31295,Perezside,TX
+CUS000401,Tammy,Martin,1978-05-18,2022-03-03,Affluent,EMP0215,tammy.martin@yahoo.com,776.418.2131x841,Hayleyside,OH
+CUS000402,Taylor,Guerrero,1980-05-17,2020-06-10,Mass Market,EMP0438,taylor.guerrero@yahoo.com,638.629.5264x5421,Rittershire,VA
+CUS000403,Jonathan,Mckenzie,2007-05-18,2024-03-30,Mass Market,EMP0486,jonathan.mckenzie@hotmail.com,(298)438-7235x53359,Davidberg,HI
+CUS000404,Craig,Taylor,1989-05-17,2023-10-31,Mass Market,EMP0422,craig.taylor@yahoo.com,255.505.5922,Velazquezside,SD
+CUS000405,Kimberly,Smith,1940-05-17,2024-07-11,Mass Market,EMP0199,kimberly.smith@hotmail.com,+1-990-842-7168x93969,Matthewport,OK
+CUS000406,David,Holland,1978-05-18,2020-01-26,Affluent,EMP0320,david.holland@gmail.com,+1-396-730-0749,West Robertport,PA
+CUS000407,Zachary,Murillo,1999-05-18,2023-03-06,Mass Market,EMP0389,zachary.murillo@hotmail.com,+1-320-565-6924,Lisaburgh,CT
+CUS000408,Kimberly,French,1951-05-18,2023-01-01,High Net Worth,EMP0450,kimberly.french@hotmail.com,001-337-254-4444x58994,North Melissaton,NE
+CUS000409,Maria,Davidson,1983-05-18,2022-08-26,Mass Market,EMP0142,maria.davidson@hotmail.com,983.275.0905x45670,Madisontown,MT
+CUS000410,Beverly,Vance,2005-05-17,2021-11-09,Affluent,EMP0026,beverly.vance@hotmail.com,(430)944-5705,Jessicafort,WV
+CUS000411,Ashley,Jones,1987-05-18,2024-06-13,Mass Market,EMP0144,ashley.jones@hotmail.com,553.347.7475x1333,Williamside,NY
+CUS000412,James,Richards,1992-05-17,2024-03-03,Mass Market,EMP0423,james.richards@yahoo.com,7204600831,Williamstown,MA
+CUS000413,Lisa,Schaefer,2003-05-18,2021-03-08,High Net Worth,EMP0209,lisa.schaefer@hotmail.com,+1-939-404-9536x985,Lake Gina,WV
+CUS000414,James,Meza,1979-05-18,2020-11-21,Mass Market,EMP0364,james.meza@gmail.com,001-650-795-3608,Michaelfort,NC
+CUS000415,Cassandra,Gray,2001-05-17,2021-02-15,Affluent,EMP0128,cassandra.gray@hotmail.com,(225)319-0308x8058,Elizabethtown,AZ
+CUS000416,Anthony,Blake,1994-05-18,2024-08-13,Mass Market,EMP0204,anthony.blake@yahoo.com,641-888-4721,Williamsbury,SD
+CUS000417,Stephanie,Gill,1995-05-18,2022-07-02,Mass Market,EMP0446,stephanie.gill@hotmail.com,646-996-7437x379,Heatherstad,NM
+CUS000418,Michelle,Novak,1998-05-18,2021-06-13,Affluent,EMP0353,michelle.novak@gmail.com,(236)926-5070x55744,Lake Angelicaborough,CO
+CUS000419,Kristen,Hood,2003-05-18,2023-03-17,Affluent,EMP0110,kristen.hood@hotmail.com,(843)718-7968x0868,South Matthew,IA
+CUS000420,Cindy,Phillips,1988-05-17,2022-04-18,Mass Market,EMP0443,cindy.phillips@yahoo.com,297.652.4900,North Tyler,WY
+CUS000421,Chad,Massey,1960-05-17,2023-05-16,Affluent,EMP0115,chad.massey@hotmail.com,001-352-683-8991x10329,Ethanmouth,KY
+CUS000422,Tina,Lewis,1986-05-18,2022-02-10,High Net Worth,EMP0236,tina.lewis@yahoo.com,+1-865-829-7203x6871,Denisemouth,KY
+CUS000423,Rachel,Cruz,1981-05-17,2020-01-16,Mass Market,EMP0340,rachel.cruz@hotmail.com,654-846-3427x8281,Jensenton,MS
+CUS000424,Omar,Flores,1975-05-18,2020-08-09,Mass Market,EMP0173,omar.flores@gmail.com,730.370.8376x72480,New Gary,LA
+CUS000425,Jasmine,Phillips,1967-05-18,2023-08-27,Mass Market,EMP0077,jasmine.phillips@yahoo.com,(556)324-8259x495,Port Sonyafurt,ND
+CUS000426,Leslie,Smith,1974-05-18,2023-10-26,Mass Market,EMP0014,leslie.smith@yahoo.com,813-687-9252,Sherrybury,TN
+CUS000427,Tiffany,Henry,1986-05-18,2024-02-17,Mass Market,EMP0363,tiffany.henry@gmail.com,8592406008,Kennethberg,OR
+CUS000428,David,Reed,1952-05-17,2023-07-31,Affluent,EMP0465,david.reed@gmail.com,795-512-9211x18156,Steelefort,TX
+CUS000429,Robert,Wagner,1966-05-18,2023-02-17,Mass Market,EMP0050,robert.wagner@yahoo.com,(576)261-1607,Edwardston,NM
+CUS000430,Kimberly,Diaz,1945-05-17,2021-11-18,Affluent,EMP0114,kimberly.diaz@hotmail.com,+1-553-563-9840,Luketown,MN
+CUS000431,Brian,Fisher,1986-05-18,2023-04-14,Mass Market,EMP0436,brian.fisher@hotmail.com,370-561-3737x7505,South Juliefort,DE
+CUS000432,Jessica,Porter,1994-05-18,2021-02-02,Mass Market,EMP0445,jessica.porter@gmail.com,939-709-3507x07364,New Craig,UT
+CUS000433,Amy,Rodriguez,2001-05-17,2020-11-04,Mass Market,EMP0103,amy.rodriguez@yahoo.com,831.879.1976,Sarahport,MI
+CUS000434,Craig,Golden,1977-05-17,2024-01-05,Mass Market,EMP0042,craig.golden@hotmail.com,727-820-1355,Katelynchester,NY
+CUS000435,Regina,Doyle,1970-05-18,2020-01-10,Mass Market,EMP0108,regina.doyle@hotmail.com,+1-534-263-4382x049,North Jasonborough,WI
+CUS000436,Christopher,Hammond,1990-05-18,2024-04-12,Affluent,EMP0067,christopher.hammond@gmail.com,(962)259-9103x63144,Taraside,SC
+CUS000437,Annette,Bell,1975-05-18,2022-09-04,Mass Market,EMP0020,annette.bell@gmail.com,372.535.0800x407,West Jared,OH
+CUS000438,James,Hodges,1975-05-18,2022-12-23,Mass Market,EMP0347,james.hodges@hotmail.com,7498269203,Amymouth,AL
+CUS000439,Andrew,Hunter,1988-05-17,2020-07-29,Mass Market,EMP0302,andrew.hunter@yahoo.com,608-806-7390x67682,East Hannah,MD
+CUS000440,Stacey,Miller,1941-05-17,2022-07-22,Affluent,EMP0306,stacey.miller@gmail.com,(803)458-8283x3673,Ericshire,ND
+CUS000441,Elizabeth,Gonzalez,1982-05-18,2022-09-30,Mass Market,EMP0097,elizabeth.gonzalez@hotmail.com,+1-296-672-5603x748,West Karen,HI
+CUS000442,Bobby,Hamilton,1983-05-18,2020-09-25,Mass Market,EMP0012,bobby.hamilton@gmail.com,477-279-9855x0134,Veronicabury,PA
+CUS000443,Eric,Ferguson,1972-05-17,2024-06-10,Mass Market,EMP0449,eric.ferguson@hotmail.com,426-725-9381x875,Richardsonland,SD
+CUS000444,Megan,Clements,1978-05-18,2020-04-08,Affluent,EMP0335,megan.clements@yahoo.com,824.845.4453,Katherinemouth,AK
+CUS000445,Brian,Wright,1992-05-17,2023-01-25,Mass Market,EMP0360,brian.wright@yahoo.com,982.862.1667x7547,Candicetown,GA
+CUS000446,Michelle,Dudley,1975-05-18,2020-07-25,Affluent,EMP0139,michelle.dudley@gmail.com,(971)720-4269x52039,Ortegaville,SC
+CUS000447,Kathleen,Williams,1991-05-18,2023-06-19,Mass Market,EMP0059,kathleen.williams@hotmail.com,+1-659-817-1302,South Tracibury,CT
+CUS000448,Matthew,Blevins,1956-05-17,2024-08-29,Mass Market,EMP0104,matthew.blevins@gmail.com,668-248-6266,New Juliechester,MN
+CUS000449,Mary,Allen,1996-05-17,2022-10-13,High Net Worth,EMP0353,mary.allen@gmail.com,+1-366-753-9878x925,Brettburgh,NM
+CUS000450,Virginia,George,1975-05-18,2020-08-14,Affluent,EMP0343,virginia.george@hotmail.com,(374)670-1096x2442,Lake Kimberlyport,NY
+CUS000451,Benjamin,Gomez,1951-05-18,2020-07-26,High Net Worth,EMP0330,benjamin.gomez@yahoo.com,640.571.4021x53068,New Laurabury,IA
+CUS000452,Amy,Cohen,2000-05-17,2024-07-23,Mass Market,EMP0021,amy.cohen@hotmail.com,268.433.7413x65545,North Amyview,ME
+CUS000453,Alan,Williams,2002-05-18,2024-04-01,High Net Worth,EMP0005,alan.williams@gmail.com,365.438.6551x13567,Perezberg,FL
+CUS000454,Peter,Stokes,1975-05-18,2022-06-15,Ultra High Net Worth,EMP0138,peter.stokes@hotmail.com,743-765-3224x29936,Parsonstown,WA
+CUS000455,Zachary,Perez,2006-05-18,2022-03-30,Ultra High Net Worth,EMP0140,zachary.perez@yahoo.com,+1-425-342-8791,Ashleymouth,MO
+CUS000456,Justin,Davis,1950-05-18,2024-06-20,Mass Market,EMP0068,justin.davis@gmail.com,001-592-588-1407,Johnsonbury,VT
+CUS000457,Shannon,Gross,1994-05-18,2023-04-24,Mass Market,EMP0292,shannon.gross@hotmail.com,(302)286-5609x94170,Saraville,UT
+CUS000458,Elizabeth,Mcgee,1956-05-17,2023-06-06,Mass Market,EMP0351,elizabeth.mcgee@gmail.com,661-860-2441x27723,Elizabethside,WA
+CUS000459,Crystal,Burke,1960-05-17,2022-06-21,Mass Market,EMP0134,crystal.burke@hotmail.com,6003623210,South Lisaborough,TN
+CUS000460,Samuel,Parsons,1943-05-18,2023-10-03,High Net Worth,EMP0266,samuel.parsons@hotmail.com,406.336.6144x96452,Port Heatherfurt,ND
+CUS000461,Ana,Bauer,1972-05-17,2021-05-24,Mass Market,EMP0340,ana.bauer@yahoo.com,453.350.6021x2106,Lake Charles,UT
+CUS000462,Daniel,Roman,1997-05-17,2020-11-17,Mass Market,EMP0241,daniel.roman@hotmail.com,759-890-7206x242,North Laurieshire,NY
+CUS000463,Jason,Smith,1993-05-17,2021-11-08,Ultra High Net Worth,EMP0026,jason.smith@yahoo.com,(808)352-6380,West Marcia,NC
+CUS000464,Teresa,Boyd,1978-05-18,2021-04-26,Mass Market,EMP0228,teresa.boyd@yahoo.com,261.255.2791x97279,Lisaburgh,OR
+CUS000465,Micheal,Bray,1993-05-17,2022-10-15,Affluent,EMP0010,micheal.bray@yahoo.com,(830)374-4807,Mccormickburgh,CT
+CUS000466,Devin,Castillo,1974-05-18,2024-06-09,Affluent,EMP0317,devin.castillo@hotmail.com,958.687.0755x3708,Mcphersonport,SD
+CUS000467,Elizabeth,Jenkins,1958-05-18,2022-07-23,Ultra High Net Worth,EMP0187,elizabeth.jenkins@gmail.com,+1-845-947-0394,Fitzgeraldview,AR
+CUS000468,Thomas,Martinez,1965-05-17,2022-01-14,Affluent,EMP0059,thomas.martinez@gmail.com,515-973-3478,New Mitchellberg,CT
+CUS000469,Danielle,Smith,1988-05-17,2023-07-21,Ultra High Net Worth,EMP0150,danielle.smith@yahoo.com,001-322-919-2618x7397,Gregorystad,OK
+CUS000470,Amy,Kaufman,1999-05-18,2020-12-02,Mass Market,EMP0421,amy.kaufman@gmail.com,(509)798-7054x55724,Stewartmouth,VA
+CUS000471,Phillip,Vasquez,1972-05-17,2021-01-19,Mass Market,EMP0437,phillip.vasquez@hotmail.com,6958773891,Mccannstad,MT
+CUS000472,Stacy,Martin,1950-05-18,2020-08-08,Affluent,EMP0024,stacy.martin@yahoo.com,(352)767-3303,Jacobhaven,SD
+CUS000473,Tara,Beltran,1977-05-17,2023-04-21,Ultra High Net Worth,EMP0069,tara.beltran@gmail.com,763-474-7307,Hendersonshire,NY
+CUS000474,Eric,Stanton,1979-05-18,2022-06-05,Affluent,EMP0248,eric.stanton@hotmail.com,+1-613-802-1511x5330,Millershire,NC
+CUS000475,Kristi,Lamb,1953-05-17,2020-09-19,Mass Market,EMP0337,kristi.lamb@hotmail.com,982.582.1909x97419,North Eugene,RI
+CUS000476,Megan,Thomas,1985-05-17,2023-06-01,High Net Worth,EMP0391,megan.thomas@yahoo.com,+1-691-487-7681x737,South Brianna,KS
+CUS000477,Ryan,Rubio,1983-05-18,2020-09-30,Mass Market,EMP0309,ryan.rubio@gmail.com,001-952-256-6623x4245,Lynchborough,VT
+CUS000478,Richard,Rice,1966-05-18,2023-02-07,Affluent,EMP0103,richard.rice@yahoo.com,571.467.6563,Lake Billymouth,IN
+CUS000479,Maureen,Gonzalez,1939-05-18,2020-09-28,Ultra High Net Worth,EMP0333,maureen.gonzalez@hotmail.com,(453)877-0786x4740,Patriciashire,ID
+CUS000480,Joshua,Hunt,1953-05-17,2024-04-07,Mass Market,EMP0246,joshua.hunt@yahoo.com,386-431-7176x9760,New Sandraport,PA
+CUS000481,Aaron,Collier,1954-05-18,2022-05-15,Affluent,EMP0268,aaron.collier@gmail.com,755-652-0084x3361,Port Rodney,CT
+CUS000482,Christopher,Patterson,1971-05-18,2021-02-13,Mass Market,EMP0403,christopher.patterson@yahoo.com,+1-284-357-1941x451,Knoxburgh,HI
+CUS000483,Kelly,Lee,1971-05-18,2021-08-27,Mass Market,EMP0278,kelly.lee@yahoo.com,838.899.5675,Wilsonfort,AZ
+CUS000484,Cindy,Brown,1972-05-17,2023-02-23,Mass Market,EMP0262,cindy.brown@gmail.com,(937)569-5202x004,Tuckermouth,VT
+CUS000485,Christopher,Lopez,1994-05-18,2024-06-02,Ultra High Net Worth,EMP0161,christopher.lopez@yahoo.com,+1-610-757-1887x620,Davisbury,OK
+CUS000486,Michael,Zamora,1995-05-18,2024-05-18,High Net Worth,EMP0227,michael.zamora@yahoo.com,805-316-0116,West Walterborough,IA
+CUS000487,James,Myers,1964-05-17,2021-01-31,Mass Market,EMP0091,james.myers@hotmail.com,756.978.7965,Lake Karenland,UT
+CUS000488,Nathaniel,Perry,1990-05-18,2022-05-27,Mass Market,EMP0136,nathaniel.perry@gmail.com,+1-675-253-8072x5555,Lake William,FL
+CUS000489,Thomas,Walters,1977-05-17,2023-12-24,High Net Worth,EMP0021,thomas.walters@yahoo.com,001-223-848-1968x83782,North Theresaview,GA
+CUS000490,Gabriel,Conrad,1976-05-17,2023-03-18,Mass Market,EMP0038,gabriel.conrad@yahoo.com,497.256.4319,South Danielberg,VA
+CUS000491,Kendra,Diaz,1979-05-18,2024-05-29,Mass Market,EMP0213,kendra.diaz@yahoo.com,(277)640-9418x71795,Lake Jeffreyfurt,OH
+CUS000492,John,Turner,1983-05-18,2021-03-12,Affluent,EMP0170,john.turner@gmail.com,001-969-974-4897x88904,Penaport,MS
+CUS000493,Sarah,Duke,1935-05-18,2024-08-13,Affluent,EMP0333,sarah.duke@gmail.com,(575)552-6662x90570,South Gary,AL
+CUS000494,Thomas,Smith,1943-05-18,2023-06-10,High Net Worth,EMP0125,thomas.smith@yahoo.com,+1-599-644-9549,West Heidi,AZ
+CUS000495,Amy,Garcia,1985-05-17,2023-01-11,Affluent,EMP0013,amy.garcia@gmail.com,854.986.3421x05830,Port Angelaview,ND
+CUS000496,Gregory,Meyers,1984-05-17,2021-08-30,High Net Worth,EMP0099,gregory.meyers@hotmail.com,732-640-1213,Christopherberg,MA
+CUS000497,Andrea,Burnett,1945-05-17,2024-05-02,Mass Market,EMP0004,andrea.burnett@yahoo.com,+1-999-859-9607x9106,Robertmouth,SD
+CUS000498,Jason,Jacobs,1954-05-18,2022-05-18,Affluent,EMP0106,jason.jacobs@hotmail.com,8733086692,Port Steven,OH
+CUS000499,Chad,Lee,1955-05-18,2020-11-10,Mass Market,EMP0368,chad.lee@gmail.com,3077283928,Jasonhaven,MI
+CUS000500,Beth,Shelton,2007-05-18,2021-05-30,Mass Market,EMP0295,beth.shelton@gmail.com,403.624.4967,Port Michaelland,IA
+CUS000501,Nicholas,Hernandez,1963-05-18,2022-06-05,Mass Market,EMP0200,nicholas.hernandez@yahoo.com,(393)679-3504,Lake Melissa,UT
+CUS000502,Nicole,Daniels,1975-05-18,2023-04-14,Mass Market,EMP0435,nicole.daniels@gmail.com,+1-979-941-0843,Hansonhaven,CA
+CUS000503,Hannah,Paul,1972-05-17,2021-09-09,Affluent,EMP0145,hannah.paul@yahoo.com,233-919-1512x841,Stephenborough,WI
+CUS000504,Patrick,Lee,1983-05-18,2022-12-28,Mass Market,EMP0383,patrick.lee@yahoo.com,+1-700-553-7776,New Karenborough,MT
+CUS000505,Jason,Holloway,1978-05-18,2024-06-16,High Net Worth,EMP0332,jason.holloway@hotmail.com,265.696.0565,Michellemouth,MS
+CUS000506,Nicole,Gonzales,2007-05-18,2020-01-11,Mass Market,EMP0202,nicole.gonzales@hotmail.com,218.768.5584x0021,Victoriahaven,OH
+CUS000507,John,Schmidt,1966-05-18,2024-01-26,Mass Market,EMP0212,john.schmidt@gmail.com,+1-524-305-0385x10107,Tranberg,TN
+CUS000508,Robert,Walker,1991-05-18,2021-06-01,Mass Market,EMP0093,robert.walker@gmail.com,001-405-531-3571,Reedport,TX
+CUS000509,Michael,Cannon,1974-05-18,2020-05-29,Mass Market,EMP0035,michael.cannon@yahoo.com,(274)340-6314,New Ashleyshire,KY
+CUS000510,John,Anderson,1935-05-18,2022-01-01,Mass Market,EMP0336,john.anderson@gmail.com,727.712.1535,Fergusonmouth,KS
+CUS000511,Robert,Boyle,1948-05-17,2021-10-12,Mass Market,EMP0169,robert.boyle@gmail.com,931-816-2782,Lake Micheleville,SC
+CUS000512,Laurie,Brown,1986-05-18,2022-01-16,Affluent,EMP0491,laurie.brown@hotmail.com,459-887-6312x1286,Rogerfort,NV
+CUS000513,Debbie,Sutton,1965-05-17,2023-12-29,Affluent,EMP0224,debbie.sutton@hotmail.com,887-709-9744x544,West Tina,LA
+CUS000514,Samantha,Turner,1954-05-18,2022-08-05,Mass Market,EMP0397,samantha.turner@hotmail.com,001-712-557-9000x51604,New Kylefort,MD
+CUS000515,Amanda,Padilla,1972-05-17,2020-06-16,Affluent,EMP0440,amanda.padilla@gmail.com,938-766-4775x563,South Tiffanyport,FL
+CUS000516,Andre,Sparks,1967-05-18,2020-02-08,Affluent,EMP0324,andre.sparks@gmail.com,(643)647-7543x2539,North Eric,AK
+CUS000517,Richard,Nguyen,1944-05-17,2023-02-03,Mass Market,EMP0458,richard.nguyen@yahoo.com,302-585-4600,Benjaminstad,OH
+CUS000518,John,Henderson,1975-05-18,2021-04-02,High Net Worth,EMP0302,john.henderson@yahoo.com,903-235-5304x24063,North Austin,WA
+CUS000519,Karen,Montoya,1991-05-18,2022-10-25,Mass Market,EMP0123,karen.montoya@yahoo.com,(291)566-8555,Lake Nataliechester,SC
+CUS000520,Angela,Smith,1990-05-18,2021-01-01,Mass Market,EMP0290,angela.smith@hotmail.com,(362)291-6640x4490,New Elizabethmouth,TX
+CUS000521,Terri,Johnson,1980-05-17,2022-09-25,Mass Market,EMP0136,terri.johnson@yahoo.com,001-668-666-0649x30567,South Jason,MS
+CUS000522,Nancy,Nelson,1994-05-18,2024-06-08,Mass Market,EMP0241,nancy.nelson@yahoo.com,+1-769-924-1952x48606,North Ashleyton,NJ
+CUS000523,Dalton,Cox,2007-05-18,2022-12-03,Affluent,EMP0141,dalton.cox@yahoo.com,907-965-2925x424,East Kimberly,WV
+CUS000524,Wendy,Weeks,1977-05-17,2022-02-14,Mass Market,EMP0335,wendy.weeks@hotmail.com,501-671-4992x32560,South Edwin,CA
+CUS000525,Laura,Nguyen,1987-05-18,2021-12-23,Affluent,EMP0177,laura.nguyen@yahoo.com,(407)403-5604,Gordonberg,NY
+CUS000526,Steven,Hodges,1980-05-17,2020-10-11,Mass Market,EMP0118,steven.hodges@gmail.com,+1-860-599-9886x0720,Lake Craig,CA
+CUS000527,Michael,Hughes,1999-05-18,2020-11-18,Mass Market,EMP0368,michael.hughes@hotmail.com,222.653.3351x87795,Grayton,DE
+CUS000528,Randy,Woods,1962-05-18,2022-09-13,Affluent,EMP0246,randy.woods@gmail.com,(430)674-6321x580,Millerside,IN
+CUS000529,Johnny,Brown,1998-05-18,2020-03-29,Mass Market,EMP0304,johnny.brown@gmail.com,001-446-628-4186x08900,Port Meghan,HI
+CUS000530,Deborah,Richardson,1959-05-18,2020-10-27,Mass Market,EMP0133,deborah.richardson@gmail.com,546-421-0844,Claudiaborough,ID
+CUS000531,Natalie,Adams,1956-05-17,2024-01-30,Affluent,EMP0146,natalie.adams@yahoo.com,351-998-8446,South Susan,CO
+CUS000532,William,Pugh,1956-05-17,2020-12-15,Mass Market,EMP0211,william.pugh@hotmail.com,657.348.9229x94691,Kellyland,RI
+CUS000533,Kelly,Davis,1951-05-18,2022-11-12,Mass Market,EMP0371,kelly.davis@hotmail.com,+1-448-895-1475x1390,Katrinachester,UT
+CUS000534,Jacob,Camacho,1981-05-17,2022-02-28,Mass Market,EMP0009,jacob.camacho@gmail.com,241.387.7732,Port Mariachester,IL
+CUS000535,Angela,Lee,1954-05-18,2023-05-25,Mass Market,EMP0244,angela.lee@gmail.com,+1-720-610-9880x639,North Matthewshire,SC
+CUS000536,Misty,Davis,1998-05-18,2023-09-12,Mass Market,EMP0309,misty.davis@gmail.com,373.827.5946x1711,South Jessicamouth,OH
+CUS000537,Tamara,Lozano,1975-05-18,2020-03-29,Affluent,EMP0220,tamara.lozano@yahoo.com,001-309-910-6154x2018,Lake Jacqueline,IA
+CUS000538,Emily,Wagner,1980-05-17,2024-07-05,Affluent,EMP0390,emily.wagner@gmail.com,001-721-645-1972x496,East Samantha,VT
+CUS000539,Douglas,Evans,1992-05-17,2024-04-17,Mass Market,EMP0440,douglas.evans@gmail.com,(814)436-4932,Woodburgh,CO
+CUS000540,Crystal,Meadows,1976-05-17,2020-01-12,Affluent,EMP0405,crystal.meadows@gmail.com,671-639-6071x13259,Lake Matthewstad,AL
+CUS000541,James,Velez,1979-05-18,2021-02-24,Affluent,EMP0162,james.velez@hotmail.com,820.996.4721x09448,Larrychester,NE
+CUS000542,Larry,Williams,1971-05-18,2021-06-03,Mass Market,EMP0275,larry.williams@gmail.com,+1-474-756-5437x622,Lisafort,NV
+CUS000543,Barbara,Dodson,1942-05-18,2022-03-24,Affluent,EMP0212,barbara.dodson@gmail.com,001-659-662-0398x8132,East Roberto,OK
+CUS000544,Natalie,Russell,1978-05-18,2023-02-10,Mass Market,EMP0158,natalie.russell@hotmail.com,6592085305,West Steven,OR
+CUS000545,Tara,Fields,1952-05-17,2023-09-12,Mass Market,EMP0118,tara.fields@hotmail.com,421.855.0626,Port Davidchester,NH
+CUS000546,Julie,Washington,1990-05-18,2024-05-28,Mass Market,EMP0282,julie.washington@yahoo.com,001-788-244-8318x249,North Abigailport,SC
+CUS000547,Dana,Bailey,1938-05-18,2020-01-11,Affluent,EMP0422,dana.bailey@gmail.com,327.969.0660x59576,Shelbyberg,GA
+CUS000548,Suzanne,Sullivan,2000-05-17,2021-03-30,Mass Market,EMP0312,suzanne.sullivan@yahoo.com,910.418.0554,Port Nicholasmouth,AZ
+CUS000549,Katherine,Schultz,1963-05-18,2023-05-08,Mass Market,EMP0397,katherine.schultz@yahoo.com,001-339-598-1709x584,New Raymouth,ID
+CUS000550,Anthony,Weaver,1980-05-17,2023-09-07,High Net Worth,EMP0266,anthony.weaver@yahoo.com,001-993-575-8619,Cartertown,ME
+CUS000551,Daniel,Crane,1950-05-18,2023-10-12,Mass Market,EMP0123,daniel.crane@gmail.com,897-580-4498,Williamsside,TN
+CUS000552,Kevin,West,1973-05-17,2021-12-24,Affluent,EMP0208,kevin.west@hotmail.com,+1-208-334-7245x779,East Alexis,PA
+CUS000553,Lisa,Rodgers,1948-05-17,2023-01-30,Mass Market,EMP0425,lisa.rodgers@gmail.com,(993)426-7609,Wilsonbury,OK
+CUS000554,Rachel,Elliott,1984-05-17,2021-02-02,Mass Market,EMP0207,rachel.elliott@gmail.com,+1-618-414-9624,Ashleybury,OR
+CUS000555,Devon,Chapman,1987-05-18,2023-02-18,Mass Market,EMP0151,devon.chapman@hotmail.com,+1-436-479-6769x66760,East Jacquelineview,MI
+CUS000556,James,York,1967-05-18,2022-02-11,Mass Market,EMP0395,james.york@gmail.com,781-338-1567x697,New Robert,KS
+CUS000557,Marisa,Hayes,1951-05-18,2023-04-16,High Net Worth,EMP0247,marisa.hayes@hotmail.com,701-784-8029x1883,Joshuaburgh,DE
+CUS000558,Paula,Callahan,1963-05-18,2021-04-15,Affluent,EMP0212,paula.callahan@gmail.com,+1-825-513-0342x24927,North Kevin,MN
+CUS000559,Julia,Woods,1978-05-18,2020-07-09,Mass Market,EMP0384,julia.woods@yahoo.com,(367)647-1628x73545,North Kristen,MI
+CUS000560,Robert,Freeman,1978-05-18,2021-03-23,High Net Worth,EMP0138,robert.freeman@gmail.com,+1-438-371-8829,East Jayville,ID
+CUS000561,Albert,Hunter,1989-05-17,2021-05-10,High Net Worth,EMP0106,albert.hunter@hotmail.com,001-486-452-6966x58724,Lorifurt,IA
+CUS000562,Jennifer,Johnson,2004-05-17,2020-08-06,Mass Market,EMP0041,jennifer.johnson@hotmail.com,(442)387-6919x1356,Lake Pamelashire,UT
+CUS000563,Alexander,Higgins,1956-05-17,2023-01-13,Ultra High Net Worth,EMP0435,alexander.higgins@gmail.com,458-339-3980x18679,South Davidton,NM
+CUS000564,Richard,Hall,1965-05-17,2023-03-22,High Net Worth,EMP0252,richard.hall@gmail.com,981-445-3485,East Ashleyside,ID
+CUS000565,Eric,Smith,1979-05-18,2023-03-27,Mass Market,EMP0270,eric.smith@yahoo.com,+1-409-577-7696x40493,Harrisburgh,NV
+CUS000566,Jill,Turner,1978-05-18,2023-11-06,Affluent,EMP0235,jill.turner@yahoo.com,930.643.9849x1806,Wheelerstad,DE
+CUS000567,Haley,Nelson,1961-05-17,2020-01-25,Affluent,EMP0195,haley.nelson@yahoo.com,526-728-3732x605,East Ellen,PA
+CUS000568,Jon,Nelson,2006-05-18,2021-06-22,Mass Market,EMP0242,jon.nelson@gmail.com,568.761.3735,South Loriport,SC
+CUS000569,Denise,Robinson,1984-05-17,2022-05-08,Affluent,EMP0191,denise.robinson@yahoo.com,(219)202-9020x1570,Michaelshire,MS
+CUS000570,Brian,Todd,1987-05-18,2023-03-25,Affluent,EMP0417,brian.todd@yahoo.com,971.207.2758x0398,Lake Christinafort,CT
+CUS000571,James,Reyes,1987-05-18,2022-02-19,Mass Market,EMP0410,james.reyes@hotmail.com,001-878-656-6301,East Anthonyburgh,WV
+CUS000572,David,Logan,2005-05-17,2022-10-20,Mass Market,EMP0458,david.logan@hotmail.com,8324054920,Monicaville,SD
+CUS000573,Sherry,Owen,1952-05-17,2021-09-06,Mass Market,EMP0440,sherry.owen@yahoo.com,+1-507-346-4501x90673,Lake Jamesfurt,OR
+CUS000574,Christina,Taylor,2007-05-18,2024-07-24,Mass Market,EMP0430,christina.taylor@yahoo.com,345-476-8295x74643,Duncanmouth,SD
+CUS000575,Paul,Stokes,1981-05-17,2022-01-07,Mass Market,EMP0478,paul.stokes@hotmail.com,650.701.9994x8649,West Richard,KY
+CUS000576,James,Payne,1995-05-18,2023-10-23,Ultra High Net Worth,EMP0102,james.payne@gmail.com,(528)771-5191,Port Jacobhaven,OR
+CUS000577,Michael,Simpson,1945-05-17,2021-08-05,Mass Market,EMP0345,michael.simpson@gmail.com,499.429.1075,Ryanbury,NC
+CUS000578,David,Warren,1973-05-17,2022-08-07,Affluent,EMP0075,david.warren@yahoo.com,+1-665-321-5669,East Joshuaton,HI
+CUS000579,Patricia,Williams,1962-05-18,2020-05-26,Mass Market,EMP0176,patricia.williams@hotmail.com,5119259395,Reginaport,IA
+CUS000580,Stephanie,Hughes,1955-05-18,2023-05-24,Affluent,EMP0139,stephanie.hughes@hotmail.com,(534)871-2656x511,Katherinebury,NH
+CUS000581,Kimberly,Rogers,1984-05-17,2021-01-11,High Net Worth,EMP0065,kimberly.rogers@hotmail.com,+1-688-205-3734x854,Wrightchester,WA
+CUS000582,Paul,Parker,1987-05-18,2022-03-24,Mass Market,EMP0033,paul.parker@gmail.com,+1-524-260-9379,Wallaceberg,NM
+CUS000583,Jacob,Rodriguez,1994-05-18,2020-06-19,Mass Market,EMP0317,jacob.rodriguez@gmail.com,373-994-2319,Mccarthyton,GA
+CUS000584,Monica,Edwards,1975-05-18,2024-02-19,Mass Market,EMP0321,monica.edwards@hotmail.com,476.584.4491x63835,Lake David,FL
+CUS000585,Peter,Hobbs,2005-05-17,2021-12-31,High Net Worth,EMP0167,peter.hobbs@gmail.com,318.301.9616,Port Carly,NM
+CUS000586,Anthony,Moore,2000-05-17,2023-11-29,Mass Market,EMP0303,anthony.moore@hotmail.com,495.328.8072x42873,Brownton,RI
+CUS000587,Brittany,Reyes,1975-05-18,2023-08-02,Mass Market,EMP0466,brittany.reyes@gmail.com,+1-939-760-5833x0753,East Gary,MN
+CUS000588,Margaret,Ray,1978-05-18,2022-01-19,Mass Market,EMP0080,margaret.ray@hotmail.com,850.589.2152x8380,North Gary,MD
+CUS000589,Anthony,Gardner,1995-05-18,2022-08-18,Mass Market,EMP0353,anthony.gardner@gmail.com,224-202-0737x434,Bennettport,NY
+CUS000590,Phillip,Charles,1966-05-18,2024-06-22,Mass Market,EMP0119,phillip.charles@gmail.com,(261)267-3558,Port Terrichester,AL
+CUS000591,Judy,Martin,1969-05-17,2022-06-14,Mass Market,EMP0084,judy.martin@gmail.com,843-206-2880x7790,Mcgrathmouth,VA
+CUS000592,Michelle,Barrett,1975-05-18,2020-06-11,Mass Market,EMP0123,michelle.barrett@gmail.com,243-525-3594x87843,Loveview,ND
+CUS000593,Steven,Holland,1976-05-17,2024-03-01,Mass Market,EMP0138,steven.holland@yahoo.com,001-609-371-1352x2094,Nathanielmouth,NE
+CUS000594,Karen,Stewart,1993-05-17,2023-07-28,Mass Market,EMP0232,karen.stewart@yahoo.com,531-337-1992x6403,New Joelchester,LA
+CUS000595,Teresa,Ward,1976-05-17,2020-11-07,Mass Market,EMP0274,teresa.ward@gmail.com,001-263-501-4434,North Jennifer,AK
+CUS000596,Allen,Howard,2005-05-17,2022-06-16,Affluent,EMP0120,allen.howard@gmail.com,+1-998-996-7153,East Michaelville,CO
+CUS000597,Jillian,Becker,1995-05-18,2021-09-30,Affluent,EMP0256,jillian.becker@gmail.com,+1-408-592-0570x98484,Lake Donnabury,MS
+CUS000598,Sean,Logan,1965-05-17,2020-10-26,Mass Market,EMP0398,sean.logan@hotmail.com,001-758-478-9450x0532,Smithville,MT
+CUS000599,Nathan,Davis,2006-05-18,2021-05-27,Affluent,EMP0425,nathan.davis@hotmail.com,+1-242-373-9467x079,South Stephaniemouth,AL
+CUS000600,Carlos,Moss,1988-05-17,2020-03-09,Mass Market,EMP0377,carlos.moss@gmail.com,001-255-895-2336x082,North Thomasbury,WY
+CUS000601,Matthew,Brown,1979-05-18,2023-10-27,Ultra High Net Worth,EMP0480,matthew.brown@gmail.com,202.367.8346x685,Hernandezton,MA
+CUS000602,Carlos,Henry,1952-05-17,2023-01-30,Mass Market,EMP0130,carlos.henry@yahoo.com,883.980.6142x6458,Phillipstown,NM
+CUS000603,Kristen,Hopkins,1969-05-17,2023-09-27,Mass Market,EMP0058,kristen.hopkins@hotmail.com,731.225.4772,Port Benjamin,KS
+CUS000604,Rebecca,Barr,1997-05-17,2021-07-19,Mass Market,EMP0203,rebecca.barr@hotmail.com,447-888-7143x4715,West James,KS
+CUS000605,Eric,Smith,1957-05-17,2020-11-13,Mass Market,EMP0046,eric.smith@hotmail.com,549.363.5781x0957,Williamshire,KS
+CUS000606,Sarah,Brown,1940-05-17,2024-04-04,Affluent,EMP0031,sarah.brown@gmail.com,(656)874-2860x284,Port Ashlee,MN
+CUS000607,Elizabeth,Flynn,1997-05-17,2021-04-21,Mass Market,EMP0286,elizabeth.flynn@yahoo.com,(470)734-2090x78356,Garciafurt,TN
+CUS000608,Angela,Washington,1950-05-18,2020-02-13,Affluent,EMP0184,angela.washington@gmail.com,(760)578-3084,West Kevinside,WA
+CUS000609,Douglas,Harper,1974-05-18,2023-02-18,Mass Market,EMP0357,douglas.harper@gmail.com,278.882.4222x6541,Lake Kimberlyborough,NY
+CUS000610,Michelle,Gillespie,1977-05-17,2022-08-17,Mass Market,EMP0426,michelle.gillespie@yahoo.com,(376)981-9583x5687,New Deborah,RI
+CUS000611,Sharon,Blake,1990-05-18,2024-08-05,Mass Market,EMP0188,sharon.blake@yahoo.com,001-291-673-3616,East Ellen,NJ
+CUS000612,Daniel,Johnson,1959-05-18,2020-02-08,Affluent,EMP0187,daniel.johnson@gmail.com,690-590-7035,Port Karen,WY
+CUS000613,Christopher,Perez,1965-05-17,2023-01-08,Affluent,EMP0098,christopher.perez@gmail.com,287.432.6183x16866,West Debraland,ND
+CUS000614,Meghan,Martinez,1951-05-18,2021-10-22,Mass Market,EMP0165,meghan.martinez@hotmail.com,656.747.4670,Matthewport,DE
+CUS000615,Mary,Wallace,2006-05-18,2020-09-22,Mass Market,EMP0017,mary.wallace@gmail.com,310.918.0428x767,Whitneyport,IL
+CUS000616,Michael,Herrera,2006-05-18,2023-08-07,Affluent,EMP0337,michael.herrera@yahoo.com,(431)319-0773,East Robin,NY
+CUS000617,Kelly,Conner,1999-05-18,2021-03-28,Affluent,EMP0037,kelly.conner@gmail.com,626-507-9933,New Maria,AL
+CUS000618,Brooke,Butler,1975-05-18,2023-08-01,Mass Market,EMP0286,brooke.butler@hotmail.com,+1-527-496-2720,Smithland,WV
+CUS000619,Erin,Romero,1950-05-18,2021-06-28,Mass Market,EMP0376,erin.romero@hotmail.com,838.814.4240,Baldwinstad,CA
+CUS000620,Hayden,Baker,2003-05-18,2021-04-18,Mass Market,EMP0098,hayden.baker@yahoo.com,(834)942-7691,North Darrylburgh,IL
+CUS000621,Kurt,Bates,1988-05-17,2023-02-17,Mass Market,EMP0055,kurt.bates@gmail.com,001-697-771-6384x4890,Denisefort,WY
+CUS000622,Alexis,Perez,1964-05-17,2022-05-24,High Net Worth,EMP0086,alexis.perez@hotmail.com,001-468-662-3812x72522,New Rayberg,ID
+CUS000623,Tracy,Smith,1959-05-18,2022-12-29,Ultra High Net Worth,EMP0227,tracy.smith@hotmail.com,+1-684-743-5147x78260,Port Caitlinberg,MN
+CUS000624,Diana,Wu,1978-05-18,2023-07-20,Mass Market,EMP0372,diana.wu@yahoo.com,001-222-358-1529x506,Nguyenland,MA
+CUS000625,Melissa,Grant,1988-05-17,2023-01-31,High Net Worth,EMP0131,melissa.grant@hotmail.com,001-328-947-6964x30636,Beckstad,MS
+CUS000626,Stacy,Williams,1963-05-18,2021-08-05,Mass Market,EMP0266,stacy.williams@gmail.com,240.528.0953x682,Phillipstown,FL
+CUS000627,Donna,Hamilton,1995-05-18,2021-10-06,Mass Market,EMP0421,donna.hamilton@yahoo.com,001-497-513-1751,Lake Robertchester,VT
+CUS000628,William,Swanson,2003-05-18,2022-07-31,Mass Market,EMP0071,william.swanson@gmail.com,6605579915,Lewismouth,KY
+CUS000629,David,Pratt,1977-05-17,2021-09-07,Mass Market,EMP0205,david.pratt@yahoo.com,408.459.0110,Anthonyview,OR
+CUS000630,Jeffrey,Navarro,1952-05-17,2020-12-20,Mass Market,EMP0461,jeffrey.navarro@yahoo.com,+1-251-946-1352x8259,Erikland,VT
+CUS000631,Brittany,Park,1996-05-17,2024-07-13,Mass Market,EMP0041,brittany.park@gmail.com,001-321-370-0895x852,South Taylorside,WY
+CUS000632,Matthew,Logan,1985-05-17,2020-09-03,High Net Worth,EMP0117,matthew.logan@yahoo.com,(641)530-8234x2806,Taylormouth,WV
+CUS000633,Regina,Ballard,1997-05-17,2022-12-09,Mass Market,EMP0277,regina.ballard@gmail.com,001-396-972-7680x00192,Lake Tammy,OR
+CUS000634,Andrea,Phillips,2005-05-17,2023-10-11,Affluent,EMP0202,andrea.phillips@hotmail.com,535.424.0651,West Kellyhaven,NH
+CUS000635,Aaron,Jackson,1976-05-17,2021-08-16,Affluent,EMP0076,aaron.jackson@yahoo.com,(806)661-7596x3880,Moodyside,FL
+CUS000636,Sheila,Perry,1993-05-17,2021-06-21,Mass Market,EMP0257,sheila.perry@gmail.com,667-808-6247,Port Travismouth,NV
+CUS000637,Nicole,Blake,1991-05-18,2021-02-09,Mass Market,EMP0334,nicole.blake@hotmail.com,(474)717-4572,Arnoldview,OR
+CUS000638,Melissa,Lynch,1978-05-18,2021-06-29,Affluent,EMP0166,melissa.lynch@yahoo.com,404.891.2109,New Richardhaven,UT
+CUS000639,Patricia,Moss,1993-05-17,2021-12-14,Mass Market,EMP0177,patricia.moss@gmail.com,(257)367-2689x75810,North Tammyfort,RI
+CUS000640,Joseph,Herrera,1997-05-17,2021-12-17,Affluent,EMP0412,joseph.herrera@gmail.com,001-535-473-5270,Danielleville,NH
+CUS000641,Adrian,Roberts,1949-05-17,2021-04-23,Mass Market,EMP0192,adrian.roberts@gmail.com,264-911-0344,Lake Sarashire,GA
+CUS000642,Jonathan,King,1993-05-17,2023-06-25,High Net Worth,EMP0445,jonathan.king@yahoo.com,001-481-819-5615,Ramirezfurt,ME
+CUS000643,John,Washington,1985-05-17,2022-08-22,Mass Market,EMP0108,john.washington@hotmail.com,507-261-6026,Patricktown,WV
+CUS000644,Austin,Barnes,1989-05-17,2023-06-29,Affluent,EMP0073,austin.barnes@hotmail.com,6905370688,Port Karabury,VT
+CUS000645,Edward,Goodman,1995-05-18,2020-05-03,Mass Market,EMP0405,edward.goodman@hotmail.com,(652)965-8790x509,Martinbury,VT
+CUS000646,Anna,Woods,1974-05-18,2020-01-18,Mass Market,EMP0339,anna.woods@gmail.com,+1-368-479-6545x300,Ralphport,LA
+CUS000647,John,Morris,1984-05-17,2023-08-22,Mass Market,EMP0195,john.morris@gmail.com,(616)439-3643x588,Martinfort,NC
+CUS000648,Blake,Higgins,1965-05-17,2022-12-24,Mass Market,EMP0102,blake.higgins@yahoo.com,+1-896-773-3312,Colemanberg,NC
+CUS000649,Joseph,Rogers,2000-05-17,2022-12-20,Mass Market,EMP0251,joseph.rogers@hotmail.com,(987)351-9127,New Melissa,MT
+CUS000650,Joseph,Russell,1975-05-18,2021-12-28,Affluent,EMP0121,joseph.russell@hotmail.com,(303)486-7666x1848,North Jo,NC
+CUS000651,Joshua,Herrera,1955-05-18,2024-07-26,Ultra High Net Worth,EMP0484,joshua.herrera@gmail.com,8767145181,New Sara,OK
+CUS000652,Mark,Vargas,1971-05-18,2023-09-07,Mass Market,EMP0374,mark.vargas@hotmail.com,378.427.4189x142,West Samantha,MO
+CUS000653,Alexis,Cameron,1976-05-17,2023-03-19,Mass Market,EMP0497,alexis.cameron@yahoo.com,645.549.2132,Port Anthony,MD
+CUS000654,Renee,Schultz,1985-05-17,2020-10-10,Mass Market,EMP0351,renee.schultz@gmail.com,+1-604-749-3650x0208,South Wesley,IL
+CUS000655,Mary,Keller,1986-05-18,2024-04-26,Mass Market,EMP0478,mary.keller@yahoo.com,(315)822-8355x22530,South Jonathanland,OR
+CUS000656,Crystal,Arnold,2005-05-17,2020-10-25,Affluent,EMP0392,crystal.arnold@yahoo.com,624-629-3434,East Staceyside,MA
+CUS000657,Brittany,Silva,1966-05-18,2024-08-09,High Net Worth,EMP0478,brittany.silva@yahoo.com,4154691761,South Davidborough,WV
+CUS000658,Phillip,Scott,2003-05-18,2021-01-13,Mass Market,EMP0314,phillip.scott@yahoo.com,(702)828-8918x435,Linhaven,SC
+CUS000659,Kenneth,Sanchez,1976-05-17,2021-04-17,Affluent,EMP0184,kenneth.sanchez@gmail.com,772-928-2882,West Donnabury,CO
+CUS000660,Cindy,Walters,1971-05-18,2022-02-04,Mass Market,EMP0199,cindy.walters@yahoo.com,+1-889-852-1045x9425,Port Debra,NY
+CUS000661,Ashley,Howell,1991-05-18,2022-04-16,Affluent,EMP0008,ashley.howell@yahoo.com,3052948570,New Valerie,LA
+CUS000662,Sherri,Cantu,1952-05-17,2020-05-15,Mass Market,EMP0489,sherri.cantu@hotmail.com,769.303.5230x663,Lake Sheena,NH
+CUS000663,Kelly,Rich,1953-05-17,2021-05-20,Mass Market,EMP0398,kelly.rich@hotmail.com,001-355-422-4146x1655,Carpenterport,AZ
+CUS000664,Samuel,Green,1983-05-18,2024-02-29,Mass Market,EMP0275,samuel.green@hotmail.com,001-252-784-2347x64812,Mooretown,ND
+CUS000665,David,Williams,1994-05-18,2024-08-20,High Net Worth,EMP0450,david.williams@yahoo.com,273.616.2180,Port Sharon,KS
+CUS000666,Andrea,Smith,1978-05-18,2022-11-23,Affluent,EMP0493,andrea.smith@hotmail.com,419-227-2140x0140,Lake Marieport,AR
+CUS000667,Anna,Chase,1961-05-17,2024-05-03,Affluent,EMP0237,anna.chase@yahoo.com,(797)492-1882x8370,Williamtown,HI
+CUS000668,Barbara,Hill,1956-05-17,2020-10-18,Mass Market,EMP0331,barbara.hill@yahoo.com,+1-751-269-2748x402,South Jamesshire,NH
+CUS000669,Jimmy,Tanner,1972-05-17,2023-11-26,Mass Market,EMP0202,jimmy.tanner@gmail.com,+1-371-273-8668,Contrerasfort,NE
+CUS000670,Tiffany,Lopez,1981-05-17,2023-12-30,High Net Worth,EMP0452,tiffany.lopez@hotmail.com,821.547.2181,Sanderstown,NJ
+CUS000671,Alicia,Anderson,1965-05-17,2020-09-10,Mass Market,EMP0362,alicia.anderson@yahoo.com,639-688-0736,North Kayla,NH
+CUS000672,Arthur,Cook,1973-05-17,2022-11-13,Affluent,EMP0082,arthur.cook@hotmail.com,(579)913-9101,New Brian,MO
+CUS000673,Brandon,Dickerson,1945-05-17,2023-03-04,High Net Worth,EMP0442,brandon.dickerson@hotmail.com,5743032739,West Kellyton,GA
+CUS000674,Sandra,White,1991-05-18,2021-09-25,Affluent,EMP0493,sandra.white@yahoo.com,(523)692-7477x104,Derekburgh,NH
+CUS000675,Lance,Cardenas,1970-05-18,2021-02-19,Mass Market,EMP0392,lance.cardenas@hotmail.com,001-630-291-2405,Lewisbury,KY
+CUS000676,Zachary,Tucker,1981-05-17,2020-01-12,Affluent,EMP0253,zachary.tucker@yahoo.com,425.629.9744x367,East Heatherborough,KS
+CUS000677,David,Clark,1977-05-17,2022-06-23,Mass Market,EMP0308,david.clark@hotmail.com,+1-250-657-8296x15150,West Sherry,AL
+CUS000678,Edward,Mendoza,2004-05-17,2020-10-30,Mass Market,EMP0179,edward.mendoza@hotmail.com,632.724.9230x3093,Huntermouth,AZ
+CUS000679,Justin,Buckley,1994-05-18,2020-06-28,Mass Market,EMP0214,justin.buckley@hotmail.com,(551)244-6538,Carrieport,ID
+CUS000680,Carly,Beck,1945-05-17,2024-03-14,Mass Market,EMP0477,carly.beck@hotmail.com,+1-503-837-5956x728,East Christian,AZ
+CUS000681,Joshua,Garrett,1965-05-17,2024-08-06,Mass Market,EMP0219,joshua.garrett@hotmail.com,896-400-5921,North Ryan,OK
+CUS000682,Joshua,Sanchez,2006-05-18,2021-07-16,Mass Market,EMP0212,joshua.sanchez@gmail.com,567-817-5905,Lake Danielside,ND
+CUS000683,Laura,Baker,2004-05-17,2024-02-03,Ultra High Net Worth,EMP0271,laura.baker@gmail.com,+1-892-599-1737,Williamtown,CO
+CUS000684,Matthew,Delgado,1976-05-17,2021-10-10,Mass Market,EMP0295,matthew.delgado@yahoo.com,2193152675,Russellside,SC
+CUS000685,Amy,Lewis,1991-05-18,2023-07-18,Mass Market,EMP0414,amy.lewis@yahoo.com,954-687-2238x62243,South Lisastad,ID
+CUS000686,Scott,Valdez,1941-05-17,2020-01-04,Mass Market,EMP0239,scott.valdez@hotmail.com,288.588.2997x764,West Lauraberg,SD
+CUS000687,Stephen,Thompson,1952-05-17,2022-04-29,Mass Market,EMP0171,stephen.thompson@yahoo.com,+1-652-284-1372x19801,Port Elizabeth,MN
+CUS000688,John,Brooks,1969-05-17,2023-11-14,Mass Market,EMP0405,john.brooks@yahoo.com,943.882.4256,Amandaton,CA
+CUS000689,Kathryn,Estes,1959-05-18,2020-08-21,Affluent,EMP0175,kathryn.estes@hotmail.com,001-274-201-9860x82723,Kingview,MT
+CUS000690,Claudia,Aguilar,1956-05-17,2021-02-01,Mass Market,EMP0174,claudia.aguilar@hotmail.com,953-790-7269,West Carolborough,UT
+CUS000691,Joseph,Pittman,1950-05-18,2022-09-13,Mass Market,EMP0236,joseph.pittman@gmail.com,001-611-841-0486,North Rhonda,OH
+CUS000692,Sandy,Jones,1937-05-17,2020-04-24,Affluent,EMP0154,sandy.jones@hotmail.com,001-999-256-1390x607,North Pam,OR
+CUS000693,Debbie,Lucas,1985-05-17,2023-11-04,Mass Market,EMP0470,debbie.lucas@yahoo.com,(454)943-7383x075,Lawsonside,MN
+CUS000694,Robert,Reyes,1991-05-18,2022-02-07,Affluent,EMP0432,robert.reyes@hotmail.com,618.571.2537x615,East Thomas,HI
+CUS000695,Priscilla,Smith,1976-05-17,2024-05-21,Affluent,EMP0362,priscilla.smith@hotmail.com,237.424.4650,Dianaview,MA
+CUS000696,Matthew,Washington,1996-05-17,2021-05-01,Mass Market,EMP0425,matthew.washington@hotmail.com,(446)748-4946,Carriefurt,MD
+CUS000697,Stephanie,Underwood,2004-05-17,2024-05-26,Mass Market,EMP0104,stephanie.underwood@gmail.com,683.802.9053,Velazquezport,CO
+CUS000698,Michael,Daniels,1935-05-18,2020-11-11,Mass Market,EMP0473,michael.daniels@hotmail.com,001-805-960-0986x39768,North Robertburgh,NM
+CUS000699,Tom,French,1996-05-17,2020-07-20,Affluent,EMP0481,tom.french@yahoo.com,+1-838-292-8011,Brianhaven,ND
+CUS000700,Marc,Kim,1991-05-18,2024-01-01,High Net Worth,EMP0060,marc.kim@yahoo.com,(500)295-7167x32140,West Anthonyshire,AL
+CUS000701,Lori,Spence,1994-05-18,2020-04-04,Mass Market,EMP0393,lori.spence@gmail.com,6637591024,East Peter,TX
+CUS000702,Stephanie,Wolf,1975-05-18,2021-03-05,Mass Market,EMP0099,stephanie.wolf@hotmail.com,341.983.5615x5815,Katieburgh,ME
+CUS000703,Nicole,Roberts,1965-05-17,2021-07-12,Mass Market,EMP0141,nicole.roberts@hotmail.com,6808947733,Kimberlyport,DE
+CUS000704,Lauren,Carr,1976-05-17,2021-12-18,Mass Market,EMP0139,lauren.carr@yahoo.com,589-651-5542x230,Micheleborough,GA
+CUS000705,Antonio,Allen,1996-05-17,2021-09-29,Affluent,EMP0174,antonio.allen@yahoo.com,001-680-889-6813x0353,Kimshire,OH
+CUS000706,Tiffany,Yoder,1994-05-18,2023-10-15,Mass Market,EMP0197,tiffany.yoder@gmail.com,541-659-6903,West Sarahbury,AR
+CUS000707,Xavier,Randall,1963-05-18,2023-04-28,Affluent,EMP0354,xavier.randall@gmail.com,599.862.0108,Michelleshire,VT
+CUS000708,Kaitlyn,Norton,1976-05-17,2021-02-09,Affluent,EMP0344,kaitlyn.norton@yahoo.com,695-689-5764,Christopherfort,OH
+CUS000709,Richard,Weber,2006-05-18,2024-07-01,High Net Worth,EMP0240,richard.weber@hotmail.com,001-481-268-6247x0253,Port Monicaview,CT
+CUS000710,Mary,Morgan,1986-05-18,2021-04-03,Mass Market,EMP0459,mary.morgan@gmail.com,+1-988-872-5305x748,Byrdville,SC
+CUS000711,Samuel,Kline,1963-05-18,2023-09-24,Mass Market,EMP0441,samuel.kline@hotmail.com,311-200-4874,Lake Alex,MA
+CUS000712,Marc,Wood,1980-05-17,2021-12-20,Mass Market,EMP0434,marc.wood@hotmail.com,001-608-895-9451x699,South Alejandro,HI
+CUS000713,Candace,Gonzalez,1984-05-17,2022-04-10,Affluent,EMP0408,candace.gonzalez@gmail.com,(955)635-0280,North Victoriashire,CT
+CUS000714,Travis,Cobb,1955-05-18,2022-12-27,Mass Market,EMP0303,travis.cobb@gmail.com,278-213-1396,West Debrabury,NE
+CUS000715,Kerry,Duncan,1945-05-17,2022-02-25,Mass Market,EMP0107,kerry.duncan@hotmail.com,475.845.6404x4992,West Daniel,VT
+CUS000716,Richard,Lambert,1982-05-18,2021-12-01,Mass Market,EMP0121,richard.lambert@yahoo.com,001-410-966-3615x069,Lake Kelly,ID
+CUS000717,Amanda,White,1997-05-17,2023-05-05,Mass Market,EMP0285,amanda.white@gmail.com,4125635521,New Lisa,CT
+CUS000718,Janice,Jones,2000-05-17,2020-08-10,Affluent,EMP0306,janice.jones@yahoo.com,851.434.5135x94587,New Alexis,WY
+CUS000719,Scott,Barnett,2001-05-17,2024-07-31,Mass Market,EMP0298,scott.barnett@gmail.com,940.987.2092x6833,Marchaven,WI
+CUS000720,Ruth,Jacobs,1951-05-18,2022-07-16,Mass Market,EMP0200,ruth.jacobs@gmail.com,7083178613,Port Davidstad,SC
+CUS000721,Carl,Vega,1969-05-17,2021-10-10,Mass Market,EMP0407,carl.vega@gmail.com,728-741-4571x4966,Port Frankmouth,UT
+CUS000722,John,Jones,1939-05-18,2023-04-08,Mass Market,EMP0262,john.jones@hotmail.com,384.295.0886,West Whitneyland,MT
+CUS000723,Donna,Brown,1939-05-18,2020-04-18,Mass Market,EMP0287,donna.brown@hotmail.com,(367)813-0714x4220,Brittanytown,MN
+CUS000724,Tamara,Phillips,1986-05-18,2023-04-23,Mass Market,EMP0163,tamara.phillips@gmail.com,264.826.4960,Dunlapport,VA
+CUS000725,Matthew,Patterson,1983-05-18,2023-09-18,Mass Market,EMP0072,matthew.patterson@yahoo.com,001-886-342-1386x194,New Abigailland,IL
+CUS000726,Ryan,Wilson,1999-05-18,2023-10-04,Mass Market,EMP0006,ryan.wilson@yahoo.com,636.530.0643x7506,Hansenchester,CA
+CUS000727,Maria,Diaz,1971-05-18,2020-10-05,Mass Market,EMP0329,maria.diaz@hotmail.com,658.539.9931,Ortegaview,NE
+CUS000728,Jacob,Smith,1976-05-17,2022-05-18,Mass Market,EMP0231,jacob.smith@hotmail.com,(381)939-4857,Teresastad,MO
+CUS000729,David,Peterson,1970-05-18,2023-03-29,Mass Market,EMP0375,david.peterson@gmail.com,395-729-4805x307,Kimberlyhaven,KS
+CUS000730,Jeffrey,Mcdonald,1937-05-17,2023-03-26,Mass Market,EMP0020,jeffrey.mcdonald@hotmail.com,859.625.1148,Comptonhaven,OR
+CUS000731,Steven,Baker,1935-05-18,2020-06-12,Mass Market,EMP0375,steven.baker@yahoo.com,8209545317,Prattfort,ND
+CUS000732,Daniel,Martinez,1987-05-18,2023-06-03,Mass Market,EMP0242,daniel.martinez@hotmail.com,001-678-299-9700,South Carlos,SD
+CUS000733,Steven,Rodgers,1954-05-18,2021-12-04,Mass Market,EMP0006,steven.rodgers@hotmail.com,001-248-889-1769x7053,Mcphersonside,NM
+CUS000734,Nicole,White,1979-05-18,2024-06-22,Mass Market,EMP0086,nicole.white@yahoo.com,712-492-3737x4836,Julianstad,AZ
+CUS000735,Caleb,Guzman,1952-05-17,2023-02-28,Mass Market,EMP0323,caleb.guzman@yahoo.com,9655609318,West Anthonyton,NM
+CUS000736,Lori,Thompson,1957-05-17,2021-08-20,Affluent,EMP0320,lori.thompson@gmail.com,+1-555-870-4004x66170,Karenstad,AK
+CUS000737,Kristen,Mcclain,1980-05-17,2024-05-24,Mass Market,EMP0068,kristen.mcclain@gmail.com,484.386.2089x5923,New Reginald,SC
+CUS000738,John,Brennan,1967-05-18,2023-05-21,Mass Market,EMP0303,john.brennan@yahoo.com,001-877-419-0458x0409,North Jeffrey,WV
+CUS000739,Kristine,White,1981-05-17,2023-12-06,Mass Market,EMP0093,kristine.white@gmail.com,423-674-3796x1942,West Barbara,ND
+CUS000740,Jamie,Baker,1985-05-17,2024-08-09,Mass Market,EMP0254,jamie.baker@gmail.com,001-817-470-3334,Andreahaven,WI
+CUS000741,Wanda,Cox,1968-05-17,2020-12-08,Mass Market,EMP0376,wanda.cox@gmail.com,+1-407-682-3301x64362,Christinachester,MN
+CUS000742,Michelle,Castaneda,2007-05-18,2022-08-08,Mass Market,EMP0155,michelle.castaneda@gmail.com,875-866-0645x3687,North Kevintown,NM
+CUS000743,Michael,Smith,1968-05-17,2022-03-09,Mass Market,EMP0075,michael.smith@yahoo.com,(656)797-8493,Port Vanessa,ND
+CUS000744,William,Strickland,1995-05-18,2021-10-08,Ultra High Net Worth,EMP0350,william.strickland@yahoo.com,(884)944-6052,New Meagan,AZ
+CUS000745,Jennifer,Robinson,1939-05-18,2022-06-03,Affluent,EMP0334,jennifer.robinson@yahoo.com,229.766.8843,Port Pamela,LA
+CUS000746,Brittany,Martin,1987-05-18,2023-04-11,Mass Market,EMP0396,brittany.martin@gmail.com,001-807-300-6043x620,Port Michael,UT
+CUS000747,Megan,Reid,1988-05-17,2023-10-19,Affluent,EMP0093,megan.reid@gmail.com,+1-701-385-7808,Port Johnville,MA
+CUS000748,Amber,Stevens,1954-05-18,2020-01-25,Mass Market,EMP0269,amber.stevens@yahoo.com,+1-775-829-7389x98704,Watsonport,CT
+CUS000749,Jason,Pena,1964-05-17,2021-05-30,Mass Market,EMP0013,jason.pena@hotmail.com,848-220-1724x8307,North Amanda,SC
+CUS000750,Annette,Carter,1944-05-17,2023-07-30,Mass Market,EMP0491,annette.carter@gmail.com,(850)543-9181,Lake Kelseytown,DE
+CUS000751,John,Martin,1971-05-18,2023-08-19,Mass Market,EMP0496,john.martin@yahoo.com,616-330-1914,Elliottfurt,ID
+CUS000752,Jennifer,Mccall,1990-05-18,2020-06-04,Affluent,EMP0473,jennifer.mccall@gmail.com,(634)753-0604x82692,Millerburgh,LA
+CUS000753,Miguel,Black,1982-05-18,2024-05-17,Mass Market,EMP0398,miguel.black@gmail.com,+1-559-650-6400,South Garyburgh,AR
+CUS000754,Hannah,Taylor,1983-05-18,2024-07-22,Mass Market,EMP0226,hannah.taylor@gmail.com,738.334.9188,Sandersfurt,CA
+CUS000755,Ann,Bell,2000-05-17,2022-10-04,Mass Market,EMP0277,ann.bell@hotmail.com,236-704-4428,Thomasfurt,WY
+CUS000756,Nicole,Webb,1947-05-18,2024-01-05,Mass Market,EMP0018,nicole.webb@gmail.com,001-899-808-9047x00973,Smithside,CA
+CUS000757,Elaine,Holt,1952-05-17,2020-02-08,High Net Worth,EMP0077,elaine.holt@hotmail.com,409-876-2850,Jamesburgh,TN
+CUS000758,Kendra,Weaver,1995-05-18,2023-12-04,Mass Market,EMP0201,kendra.weaver@hotmail.com,+1-934-228-9435x9814,South Cherylborough,OR
+CUS000759,Jasmine,Green,1979-05-18,2022-04-07,Affluent,EMP0400,jasmine.green@gmail.com,623-455-5737x90555,Jamiefort,CA
+CUS000760,Michael,Adams,1938-05-18,2024-08-02,Affluent,EMP0063,michael.adams@yahoo.com,(511)395-3110,Kimberlyview,OR
+CUS000761,Joseph,Burns,1984-05-17,2023-07-18,Ultra High Net Worth,EMP0332,joseph.burns@hotmail.com,+1-706-553-9262x52745,South Suzanne,CO
+CUS000762,Jennifer,Cooper,1965-05-17,2024-04-06,Affluent,EMP0332,jennifer.cooper@yahoo.com,335.346.6192x77862,Lake Christine,IL
+CUS000763,Laura,Lopez,1974-05-18,2021-09-04,Affluent,EMP0459,laura.lopez@hotmail.com,269-991-0762x889,New Jenniferchester,CT
+CUS000764,David,Berry,1960-05-17,2022-06-15,Affluent,EMP0072,david.berry@yahoo.com,667.704.9904x35933,Brandonmouth,AZ
+CUS000765,Mason,Andrews,1995-05-18,2020-05-09,Affluent,EMP0330,mason.andrews@yahoo.com,645.506.3992x5338,Lake Martinland,MD
+CUS000766,Christopher,Hanson,1936-05-17,2020-02-03,Mass Market,EMP0029,christopher.hanson@gmail.com,001-534-252-3672x965,West Angelastad,MI
+CUS000767,Angela,Smith,1994-05-18,2023-09-01,Affluent,EMP0235,angela.smith@gmail.com,9829805535,East Kimberly,UT
+CUS000768,Amanda,Pacheco,1943-05-18,2020-03-16,Affluent,EMP0251,amanda.pacheco@gmail.com,001-836-237-5872x83609,Wrightside,TN
+CUS000769,Michael,King,1980-05-17,2023-08-21,Mass Market,EMP0089,michael.king@yahoo.com,+1-430-698-8288x05904,New Kristen,SD
+CUS000770,John,Rivera,1986-05-18,2020-12-15,Affluent,EMP0033,john.rivera@yahoo.com,517.973.2222,East Sonyastad,CT
+CUS000771,Bruce,Allen,2006-05-18,2021-02-19,Mass Market,EMP0416,bruce.allen@hotmail.com,+1-693-844-7756x4990,North Kaylachester,WV
+CUS000772,Denise,Trevino,1947-05-18,2023-03-25,Mass Market,EMP0165,denise.trevino@gmail.com,885.409.1554x175,Joshuastad,IN
+CUS000773,Andrew,Hall,1994-05-18,2020-09-04,Mass Market,EMP0388,andrew.hall@gmail.com,312-497-1054x4941,Lowechester,NE
+CUS000774,Elaine,Cox,1984-05-17,2023-04-06,Mass Market,EMP0052,elaine.cox@gmail.com,9703141769,North George,SD
+CUS000775,Deborah,Dickerson,1998-05-18,2022-09-24,Mass Market,EMP0004,deborah.dickerson@yahoo.com,5577316792,Port Jeffreybury,ID
+CUS000776,Heather,Murphy,1975-05-18,2024-07-11,Affluent,EMP0244,heather.murphy@gmail.com,+1-727-328-7088x607,Port Melissa,VT
+CUS000777,Frank,Sherman,1989-05-17,2022-04-23,Mass Market,EMP0090,frank.sherman@hotmail.com,001-808-984-4481x7211,North Alyssaside,SC
+CUS000778,Andrea,Hill,1956-05-17,2023-06-07,Ultra High Net Worth,EMP0322,andrea.hill@yahoo.com,937-942-0508,Port Matthewbury,MD
+CUS000779,Julie,Tucker,2002-05-18,2022-12-21,Ultra High Net Worth,EMP0317,julie.tucker@hotmail.com,(756)410-2171,Carolynberg,MS
+CUS000780,William,Salazar,1978-05-18,2023-07-06,Affluent,EMP0142,william.salazar@hotmail.com,5894737819,South Dennisland,AR
+CUS000781,Nathaniel,Conner,1950-05-18,2022-08-29,Mass Market,EMP0082,nathaniel.conner@hotmail.com,623.316.7404x89366,Smithshire,TX
+CUS000782,Morgan,Reid,1994-05-18,2022-06-09,Mass Market,EMP0316,morgan.reid@gmail.com,942-395-9498x870,Rebeccafurt,WI
+CUS000783,Brandon,Bennett,1949-05-17,2020-12-26,Mass Market,EMP0015,brandon.bennett@yahoo.com,342.931.6930,Matthewhaven,NY
+CUS000784,James,Taylor,1973-05-17,2023-04-28,Mass Market,EMP0215,james.taylor@yahoo.com,001-355-802-9927x2077,Lake Daniel,IL
+CUS000785,Patricia,Holder,1985-05-17,2020-07-19,Mass Market,EMP0212,patricia.holder@gmail.com,001-577-979-4779x00800,East Joshua,IL
+CUS000786,Craig,Chapman,1988-05-17,2020-04-21,High Net Worth,EMP0075,craig.chapman@gmail.com,(229)281-3376x1374,South Andrewstad,IN
+CUS000787,Donald,Sanders,1981-05-17,2022-07-26,Affluent,EMP0324,donald.sanders@hotmail.com,265-215-1427x4113,East Tara,MN
+CUS000788,Linda,Ortiz,2003-05-18,2023-03-10,Mass Market,EMP0070,linda.ortiz@yahoo.com,(294)475-3101,Christophershire,DE
+CUS000789,David,Preston,1962-05-18,2021-03-26,High Net Worth,EMP0310,david.preston@gmail.com,+1-263-297-8613x57753,South Rachelview,HI
+CUS000790,Stacey,Smith,1975-05-18,2023-02-06,High Net Worth,EMP0045,stacey.smith@gmail.com,(455)735-2540x310,South Melaniebury,NE
+CUS000791,Karen,Craig,1969-05-17,2021-07-25,Mass Market,EMP0220,karen.craig@yahoo.com,6363400965,Jennifermouth,WV
+CUS000792,Kathleen,Chang,1988-05-17,2023-04-26,High Net Worth,EMP0468,kathleen.chang@yahoo.com,+1-343-517-6993x62773,Muellerland,OR
+CUS000793,Nicholas,Craig,1949-05-17,2024-02-11,Affluent,EMP0018,nicholas.craig@yahoo.com,001-833-829-0484x4677,East Robertbury,NV
+CUS000794,Roger,Gardner,1983-05-18,2021-05-07,Mass Market,EMP0386,roger.gardner@yahoo.com,991-244-4284,New David,AL
+CUS000795,Jessica,Bates,1982-05-18,2021-05-04,Affluent,EMP0047,jessica.bates@yahoo.com,+1-480-984-7641x4480,West Mike,AK
+CUS000796,Pamela,Meyer,1970-05-18,2024-03-10,Mass Market,EMP0500,pamela.meyer@gmail.com,001-857-977-8509x881,Jamiemouth,NJ
+CUS000797,Hannah,Richardson,2000-05-17,2022-01-28,Affluent,EMP0361,hannah.richardson@gmail.com,001-360-224-3932x37390,Fordport,SD
+CUS000798,Christopher,Norton,1973-05-17,2021-11-12,Mass Market,EMP0152,christopher.norton@hotmail.com,291-524-9378x872,Cassandrahaven,NV
+CUS000799,Sarah,Dixon,1953-05-17,2020-06-14,Affluent,EMP0172,sarah.dixon@hotmail.com,+1-223-743-1880x17309,North Davidland,WV
+CUS000800,Charles,Brown,1954-05-18,2020-08-15,Mass Market,EMP0239,charles.brown@hotmail.com,+1-487-863-7167x35499,North Brett,SC
+CUS000801,Brian,Blair,1964-05-17,2023-12-14,Mass Market,EMP0364,brian.blair@gmail.com,001-851-868-0682x375,Aliside,WY
+CUS000802,Valerie,Nguyen,1991-05-18,2023-08-22,Mass Market,EMP0481,valerie.nguyen@hotmail.com,001-312-999-9549,Peterton,WI
+CUS000803,John,Perez,1989-05-17,2021-07-01,Mass Market,EMP0217,john.perez@gmail.com,648-251-1159,Andersonbury,LA
+CUS000804,Alison,Fry,1993-05-17,2022-10-23,Mass Market,EMP0063,alison.fry@hotmail.com,613.324.3212x5147,Tonyashire,NM
+CUS000805,Gene,Perkins,1978-05-18,2022-01-23,Affluent,EMP0485,gene.perkins@yahoo.com,+1-826-337-2043,Gonzalezhaven,VT
+CUS000806,Autumn,Gonzales,1995-05-18,2022-03-11,High Net Worth,EMP0148,autumn.gonzales@gmail.com,(539)417-0196x9203,East Hunter,CA
+CUS000807,Amanda,Hayes,1967-05-18,2022-10-13,Mass Market,EMP0105,amanda.hayes@yahoo.com,+1-402-846-9516x530,Port Angel,ND
+CUS000808,Robert,Richardson,1937-05-17,2023-01-13,High Net Worth,EMP0243,robert.richardson@hotmail.com,(583)493-1009x60704,West Davidfort,MN
+CUS000809,Austin,Wolfe,1981-05-17,2020-05-08,Mass Market,EMP0411,austin.wolfe@hotmail.com,(986)930-4734x269,Harveyville,IA
+CUS000810,Ashley,Snyder,1975-05-18,2023-09-04,Affluent,EMP0168,ashley.snyder@gmail.com,791.654.8161x20318,Johnnyport,NY
+CUS000811,Alexandra,Dixon,1979-05-18,2023-03-07,Mass Market,EMP0405,alexandra.dixon@hotmail.com,(353)803-2836,Port Ashleymouth,MD
+CUS000812,Danielle,Saunders,1987-05-18,2021-08-13,Affluent,EMP0025,danielle.saunders@hotmail.com,001-571-219-0804x43886,West Marthaburgh,GA
+CUS000813,Jesse,Wilson,1961-05-17,2020-11-25,Affluent,EMP0147,jesse.wilson@gmail.com,223-956-0707x2632,Debbiechester,ID
+CUS000814,Amy,Mullins,2005-05-17,2021-10-10,Mass Market,EMP0226,amy.mullins@gmail.com,(688)785-0613,Danielville,KY
+CUS000815,James,Hughes,1969-05-17,2021-12-05,Mass Market,EMP0230,james.hughes@gmail.com,720.221.7930x98687,New Haleyland,OH
+CUS000816,Anthony,Martinez,1947-05-18,2022-04-08,High Net Worth,EMP0394,anthony.martinez@gmail.com,(859)618-7330x252,West Sarahton,GA
+CUS000817,Gabriel,Wilson,1950-05-18,2023-01-23,Ultra High Net Worth,EMP0170,gabriel.wilson@yahoo.com,+1-676-896-3661x830,Robertfurt,TN
+CUS000818,Travis,Hull,1941-05-17,2024-03-24,Ultra High Net Worth,EMP0294,travis.hull@hotmail.com,(212)708-2968,Whitemouth,TX
+CUS000819,Candice,Jimenez,1977-05-17,2020-08-18,Affluent,EMP0461,candice.jimenez@hotmail.com,461-912-7406x1053,Lyonsshire,AZ
+CUS000820,Christopher,Frederick,2005-05-17,2023-06-18,Affluent,EMP0229,christopher.frederick@gmail.com,001-808-366-2588x8236,Taylorfurt,MN
+CUS000821,Brittany,Wright,1985-05-17,2021-03-30,Affluent,EMP0393,brittany.wright@yahoo.com,543.604.1512x2105,North Rachel,LA
+CUS000822,Amy,Randall,1973-05-17,2020-06-27,Ultra High Net Worth,EMP0202,amy.randall@gmail.com,489-757-2818,North Margaret,IL
+CUS000823,Dennis,Lopez,1949-05-17,2022-01-09,Mass Market,EMP0367,dennis.lopez@gmail.com,+1-568-691-5701x8236,Port David,NV
+CUS000824,Kimberly,Nelson,1983-05-18,2021-12-20,Mass Market,EMP0229,kimberly.nelson@gmail.com,001-978-476-7531x964,Mckinneyberg,OK
+CUS000825,Carlos,Vasquez,1952-05-17,2022-05-01,Affluent,EMP0148,carlos.vasquez@gmail.com,+1-539-404-2941x21885,New Jerryshire,HI
+CUS000826,Pamela,Fernandez,1995-05-18,2023-04-17,Mass Market,EMP0074,pamela.fernandez@gmail.com,(328)896-8787,North Felicia,IN
+CUS000827,Jordan,Barnes,2003-05-18,2023-04-24,Affluent,EMP0046,jordan.barnes@yahoo.com,374.491.9900x146,Jacksonbury,AL
+CUS000828,Samantha,Perez,2001-05-17,2022-08-04,Affluent,EMP0387,samantha.perez@yahoo.com,805-335-3661,Estradaton,FL
+CUS000829,Lindsey,Russell,1990-05-18,2020-03-27,Affluent,EMP0155,lindsey.russell@gmail.com,001-621-364-8476x8278,New Joshuamouth,PA
+CUS000830,Steven,King,1980-05-17,2024-06-08,Mass Market,EMP0135,steven.king@yahoo.com,291.576.9711,East Jessicastad,MD
+CUS000831,Mark,Vasquez,1960-05-17,2021-08-12,Mass Market,EMP0252,mark.vasquez@yahoo.com,001-888-687-8024,North Carolynbury,VT
+CUS000832,Christopher,Lee,1975-05-18,2022-10-06,Ultra High Net Worth,EMP0035,christopher.lee@gmail.com,490.712.6345x413,New Dennis,RI
+CUS000833,Troy,Stewart,1984-05-17,2021-06-12,Affluent,EMP0244,troy.stewart@gmail.com,622.677.6724,Shannonburgh,VT
+CUS000834,Jared,Rojas,1959-05-18,2020-11-29,Mass Market,EMP0075,jared.rojas@gmail.com,5272474962,Port Katelyn,MA
+CUS000835,Craig,Scott,2000-05-17,2022-01-09,Mass Market,EMP0467,craig.scott@hotmail.com,323-541-6710,New Wendy,MN
+CUS000836,Ruben,Odom,1986-05-18,2024-04-18,Affluent,EMP0392,ruben.odom@gmail.com,234.289.4916x99951,Lake Laura,CT
+CUS000837,Todd,Stephens,1958-05-18,2024-08-20,Affluent,EMP0410,todd.stephens@yahoo.com,+1-677-457-3995x323,New Amanda,MD
+CUS000838,Valerie,Wong,1972-05-17,2020-01-27,Mass Market,EMP0145,valerie.wong@yahoo.com,001-955-273-9117x74634,Wilsontown,MS
+CUS000839,Victoria,Perez,1940-05-17,2020-11-29,Mass Market,EMP0080,victoria.perez@hotmail.com,306.723.7919x90801,South Julia,NC
+CUS000840,Bob,Gonzales,1989-05-17,2020-06-05,Mass Market,EMP0068,bob.gonzales@hotmail.com,424.529.1140x837,Port Kathy,AK
+CUS000841,Phillip,Hood,2000-05-17,2022-06-24,High Net Worth,EMP0306,phillip.hood@yahoo.com,(839)461-7698,Port Jessicaland,ND
+CUS000842,Robert,Coleman,1995-05-18,2024-07-26,Mass Market,EMP0066,robert.coleman@gmail.com,001-500-706-4984x43083,Calvinville,VT
+CUS000843,Jason,Simpson,1988-05-17,2020-06-09,Mass Market,EMP0391,jason.simpson@hotmail.com,001-995-220-2936x6292,Jonesland,DE
+CUS000844,Stacey,Ramos,1951-05-18,2020-03-28,Mass Market,EMP0017,stacey.ramos@gmail.com,001-655-881-7024x99758,Port Parkerland,TX
+CUS000845,Ashley,Miller,1999-05-18,2021-06-02,Mass Market,EMP0155,ashley.miller@yahoo.com,+1-586-447-5153,Ginastad,TX
+CUS000846,Richard,Sullivan,1947-05-18,2021-02-24,Mass Market,EMP0103,richard.sullivan@yahoo.com,680.220.5312,Christinemouth,ID
+CUS000847,Haley,Martin,1997-05-17,2024-03-08,High Net Worth,EMP0486,haley.martin@yahoo.com,001-916-529-0536x93206,South Katelynburgh,PA
+CUS000848,Stephen,Williams,1984-05-17,2020-05-19,Mass Market,EMP0297,stephen.williams@yahoo.com,(693)861-7328x470,Andrewmouth,WI
+CUS000849,David,Martin,1944-05-17,2020-12-17,High Net Worth,EMP0276,david.martin@gmail.com,580-959-7637,Debraland,AL
+CUS000850,Jerry,Rodriguez,1992-05-17,2023-04-22,Mass Market,EMP0345,jerry.rodriguez@gmail.com,+1-552-494-5008,New Brooke,CT
+CUS000851,Kelsey,Bryant,1984-05-17,2021-04-11,Mass Market,EMP0390,kelsey.bryant@hotmail.com,458-327-4768x16506,Jonathanborough,MA
+CUS000852,Cody,Collins,1981-05-17,2022-01-09,Affluent,EMP0286,cody.collins@yahoo.com,+1-205-865-7555,Gilmorestad,WA
+CUS000853,Joseph,Hendricks,2007-05-18,2021-08-03,Mass Market,EMP0377,joseph.hendricks@hotmail.com,938-933-7041x5862,Warrenburgh,MD
+CUS000854,Alexander,Hamilton,1981-05-17,2022-05-26,Mass Market,EMP0036,alexander.hamilton@gmail.com,+1-560-813-3794x49877,Karaland,NM
+CUS000855,Jason,Drake,1950-05-18,2022-10-03,Affluent,EMP0203,jason.drake@hotmail.com,642.464.4828,New Kellybury,NH
+CUS000856,Richard,Wilson,1993-05-17,2023-11-24,Mass Market,EMP0053,richard.wilson@gmail.com,448.960.8857x751,South Catherine,WV
+CUS000857,Kathryn,Lopez,1993-05-17,2023-05-03,Affluent,EMP0207,kathryn.lopez@yahoo.com,(238)761-7028,South Garyhaven,DE
+CUS000858,Peggy,Garcia,1982-05-18,2024-01-01,Affluent,EMP0304,peggy.garcia@hotmail.com,+1-910-281-2955x6900,North Hectortown,LA
+CUS000859,Elijah,Reeves,1975-05-18,2023-05-20,Ultra High Net Worth,EMP0249,elijah.reeves@gmail.com,638-677-8056x03863,Westhaven,NC
+CUS000860,Taylor,Anderson,2003-05-18,2021-05-28,Mass Market,EMP0119,taylor.anderson@hotmail.com,538.344.5305,Michaelside,SD
+CUS000861,Daniel,Robinson,1972-05-17,2022-10-17,Affluent,EMP0498,daniel.robinson@hotmail.com,(742)875-4034x3476,Donaldland,ID
+CUS000862,Dawn,Navarro,2001-05-17,2023-06-27,Affluent,EMP0390,dawn.navarro@gmail.com,353-260-8325x7718,West Michelle,CA
+CUS000863,Jamie,Bowman,1951-05-18,2021-02-17,Mass Market,EMP0255,jamie.bowman@gmail.com,468-917-4323x4641,North Meganside,NY
+CUS000864,Julie,Rice,1958-05-18,2023-01-12,Mass Market,EMP0488,julie.rice@hotmail.com,+1-542-825-4282x17606,Campbellbury,WI
+CUS000865,Michael,Shaw,1982-05-18,2022-02-09,Mass Market,EMP0019,michael.shaw@hotmail.com,001-865-635-7328x4534,Josephfurt,AZ
+CUS000866,Joseph,Baker,1954-05-18,2020-12-02,Mass Market,EMP0069,joseph.baker@gmail.com,724-732-4167x5611,South Staceyfurt,MD
+CUS000867,Cynthia,Peterson,1983-05-18,2022-10-01,Affluent,EMP0351,cynthia.peterson@gmail.com,963-321-7177,North Yvetteberg,OH
+CUS000868,Misty,Mitchell,1980-05-17,2022-03-12,Mass Market,EMP0303,misty.mitchell@hotmail.com,(985)398-8060x68160,North Eric,MO
+CUS000869,Joshua,Le,1984-05-17,2020-02-27,Mass Market,EMP0066,joshua.le@yahoo.com,(674)903-2771x9769,Roweberg,MS
+CUS000870,Sally,Robinson,1977-05-17,2022-05-26,Mass Market,EMP0183,sally.robinson@yahoo.com,608.897.9550x21035,East Stevenfurt,NE
+CUS000871,Emily,Byrd,1994-05-18,2023-08-20,Mass Market,EMP0044,emily.byrd@yahoo.com,722-559-3100x1580,Pamelabury,VT
+CUS000872,Miguel,Quinn,2006-05-18,2023-01-07,Mass Market,EMP0236,miguel.quinn@gmail.com,+1-655-936-7804,Annton,TX
+CUS000873,Terri,Travis,1977-05-17,2023-11-26,Mass Market,EMP0012,terri.travis@yahoo.com,369.547.2271x8408,Andrewburgh,MA
+CUS000874,Kimberly,Rojas,1977-05-17,2024-07-13,Mass Market,EMP0354,kimberly.rojas@yahoo.com,001-448-844-7002x575,Williamhaven,UT
+CUS000875,Carol,Garcia,2004-05-17,2021-09-05,Mass Market,EMP0224,carol.garcia@yahoo.com,001-426-855-7612,Ashleymouth,IL
+CUS000876,Nicole,Coffey,1950-05-18,2023-01-02,Mass Market,EMP0136,nicole.coffey@gmail.com,999-530-0459,Robinsonton,AR
+CUS000877,Amanda,Mcdaniel,1963-05-18,2020-07-07,Affluent,EMP0297,amanda.mcdaniel@gmail.com,228.533.1542x96820,Rhondaview,CT
+CUS000878,Christopher,Hanson,1985-05-17,2022-12-23,Mass Market,EMP0108,christopher.hanson@hotmail.com,259.248.0132x60611,South Chadborough,MN
+CUS000879,Adam,Castillo,1993-05-17,2021-09-06,Mass Market,EMP0277,adam.castillo@yahoo.com,440-729-0305x307,South Marthastad,MA
+CUS000880,Tracy,Rhodes,1963-05-18,2022-07-17,Affluent,EMP0281,tracy.rhodes@hotmail.com,800-870-0422,Lake Johnhaven,ID
+CUS000881,Nicholas,Baker,1975-05-18,2021-03-12,Affluent,EMP0422,nicholas.baker@yahoo.com,661.624.9159,Lake Jimmy,WV
+CUS000882,Christina,Hess,1937-05-17,2024-01-28,Affluent,EMP0268,christina.hess@gmail.com,8643126589,Weaverland,IL
+CUS000883,Tammy,Kelly,2002-05-18,2023-11-04,Affluent,EMP0433,tammy.kelly@gmail.com,(332)214-5939x7288,Mariahville,NV
+CUS000884,Hunter,Richardson,1973-05-17,2021-06-30,Affluent,EMP0331,hunter.richardson@gmail.com,700-259-5980,Barbaraton,HI
+CUS000885,Tanya,Hall,1976-05-17,2020-11-03,Mass Market,EMP0126,tanya.hall@yahoo.com,+1-652-421-0133x2338,South Kelli,MD
+CUS000886,Cory,Williams,1980-05-17,2020-03-16,Mass Market,EMP0140,cory.williams@yahoo.com,001-246-999-9336,Mirandaberg,FL
+CUS000887,Michelle,Grant,1950-05-18,2020-12-26,Affluent,EMP0022,michelle.grant@yahoo.com,001-497-980-7944x559,Garcialand,WA
+CUS000888,Laurie,Watts,1995-05-18,2021-09-02,High Net Worth,EMP0462,laurie.watts@hotmail.com,+1-553-685-2134,Gregoryton,NE
+CUS000889,Brandon,Mclaughlin,1993-05-17,2023-03-15,Affluent,EMP0478,brandon.mclaughlin@gmail.com,001-678-267-8175,Vargaschester,DE
+CUS000890,Kimberly,Dalton,1977-05-17,2020-07-03,Mass Market,EMP0063,kimberly.dalton@yahoo.com,+1-836-604-5419,New Donna,WY
+CUS000891,Thomas,Schneider,1965-05-17,2024-03-03,Mass Market,EMP0217,thomas.schneider@gmail.com,(386)708-8996x9199,Port Francisland,IN
+CUS000892,Michael,Gray,1944-05-17,2022-06-19,Mass Market,EMP0442,michael.gray@hotmail.com,(406)330-3558,Port Cynthia,PA
+CUS000893,Wesley,Bautista,1958-05-18,2020-08-19,Mass Market,EMP0217,wesley.bautista@hotmail.com,(911)894-4132x6299,Pamelaside,NM
+CUS000894,Emma,Costa,1988-05-17,2024-01-05,Mass Market,EMP0158,emma.costa@yahoo.com,465-990-0511,Larrybury,AK
+CUS000895,Zachary,Green,1974-05-18,2024-06-03,Affluent,EMP0130,zachary.green@hotmail.com,927.581.6943,Schultztown,OK
+CUS000896,Jessica,Henry,1939-05-18,2023-11-04,Mass Market,EMP0444,jessica.henry@gmail.com,460.437.0277,Strongshire,KS
+CUS000897,Joshua,Evans,1938-05-18,2021-06-07,Mass Market,EMP0480,joshua.evans@yahoo.com,001-574-993-1534,Reyesville,WI
+CUS000898,Patrick,Brown,1945-05-17,2023-07-17,Mass Market,EMP0416,patrick.brown@yahoo.com,001-955-670-1208x437,New Melissachester,WY
+CUS000899,Adam,Thompson,1982-05-18,2020-06-13,Affluent,EMP0482,adam.thompson@hotmail.com,+1-243-419-2798,New Andrea,NY
+CUS000900,Kathy,Rojas,1965-05-17,2024-08-06,Mass Market,EMP0083,kathy.rojas@yahoo.com,518-520-6328x0595,New Danielfort,VT
+CUS000901,Matthew,Hobbs,1979-05-18,2024-02-02,Affluent,EMP0378,matthew.hobbs@hotmail.com,806-806-4607x8174,Mitchellberg,MA
+CUS000902,Michele,Kramer,1951-05-18,2021-01-11,Affluent,EMP0406,michele.kramer@yahoo.com,555-456-9219x16538,Emilyport,TN
+CUS000903,Cameron,Hernandez,1963-05-18,2021-10-04,Mass Market,EMP0057,cameron.hernandez@yahoo.com,+1-524-641-8285x34279,Brooksland,HI
+CUS000904,Adrian,Collins,1953-05-17,2023-11-05,Mass Market,EMP0481,adrian.collins@hotmail.com,4237488045,Hoffmanmouth,MA
+CUS000905,Karen,Campos,1980-05-17,2023-11-08,Mass Market,EMP0168,karen.campos@hotmail.com,+1-378-566-7685x7899,South Michael,ME
+CUS000906,Sharon,Moses,2004-05-17,2022-02-11,High Net Worth,EMP0453,sharon.moses@gmail.com,001-328-745-7714x136,East Anthonyville,OR
+CUS000907,John,Chan,1943-05-18,2022-08-05,Mass Market,EMP0360,john.chan@hotmail.com,839.728.2242x881,East Nancyberg,HI
+CUS000908,Ryan,Ramirez,1956-05-17,2020-11-01,Mass Market,EMP0189,ryan.ramirez@yahoo.com,+1-501-213-4070x606,Leehaven,HI
+CUS000909,James,Chaney,1975-05-18,2022-07-18,Affluent,EMP0254,james.chaney@hotmail.com,959-621-3790x432,Langmouth,DE
+CUS000910,Chelsea,Sanchez,1989-05-17,2022-10-09,Mass Market,EMP0221,chelsea.sanchez@hotmail.com,+1-949-348-4612x15726,Bonniebury,IN
+CUS000911,Edward,Santos,1989-05-17,2022-04-16,Affluent,EMP0015,edward.santos@gmail.com,499.637.2369x8722,Carlaburgh,ME
+CUS000912,Shannon,Rosales,1936-05-17,2022-01-27,Mass Market,EMP0332,shannon.rosales@yahoo.com,(966)596-0706,South Jason,NJ
+CUS000913,Rebecca,Anderson,1960-05-17,2023-11-20,Mass Market,EMP0109,rebecca.anderson@hotmail.com,596.548.8819,Carterside,VA
+CUS000914,Daniel,Greene,2001-05-17,2023-02-14,Mass Market,EMP0171,daniel.greene@hotmail.com,(390)718-6261,New Kristy,KS
+CUS000915,Tanya,West,2000-05-17,2022-10-30,Affluent,EMP0155,tanya.west@gmail.com,001-967-423-3439x51633,Longstad,MT
+CUS000916,Jeremy,Curtis,1984-05-17,2021-06-17,Mass Market,EMP0253,jeremy.curtis@gmail.com,548.796.8569,Lake Jennifershire,MI
+CUS000917,Alan,Reynolds,1973-05-17,2022-06-05,Mass Market,EMP0060,alan.reynolds@gmail.com,001-712-685-7263x050,New Ericland,MA
+CUS000918,Edward,Barrera,1960-05-17,2022-05-30,Mass Market,EMP0449,edward.barrera@gmail.com,445.870.5993,Lake Ginamouth,KY
+CUS000919,Justin,Fields,1987-05-18,2020-12-03,Mass Market,EMP0252,justin.fields@hotmail.com,(732)402-7867x0721,South Lisa,WI
+CUS000920,Cynthia,Hernandez,2005-05-17,2020-10-31,Mass Market,EMP0094,cynthia.hernandez@hotmail.com,629-202-1410x651,Drakeburgh,AZ
+CUS000921,Gina,Jackson,1987-05-18,2022-10-10,Mass Market,EMP0183,gina.jackson@hotmail.com,(525)397-4324x56331,Port Mary,VA
+CUS000922,Sarah,Bates,1999-05-18,2024-01-14,High Net Worth,EMP0064,sarah.bates@hotmail.com,(764)719-8358,West Kimberly,MN
+CUS000923,David,Armstrong,1966-05-18,2024-03-15,Mass Market,EMP0140,david.armstrong@hotmail.com,+1-930-354-9629x162,North Karenville,OR
+CUS000924,Christopher,Tate,1977-05-17,2023-03-14,Mass Market,EMP0472,christopher.tate@yahoo.com,522-209-6410,Rossmouth,CA
+CUS000925,David,Howard,1954-05-18,2020-02-23,Mass Market,EMP0349,david.howard@hotmail.com,212.776.3081x81507,Brianton,DE
+CUS000926,William,Parks,1957-05-17,2020-11-10,Mass Market,EMP0236,william.parks@yahoo.com,290-843-6380x9582,New Mary,VA
+CUS000927,Dennis,Murphy,1980-05-17,2020-01-12,Mass Market,EMP0023,dennis.murphy@yahoo.com,+1-630-953-4640x307,Johnsonport,TN
+CUS000928,Alexander,Martin,1981-05-17,2020-04-09,Affluent,EMP0145,alexander.martin@hotmail.com,001-390-427-6519x062,Schmidtbury,MA
+CUS000929,Martha,Scott,1994-05-18,2023-05-18,Mass Market,EMP0205,martha.scott@yahoo.com,516.642.9802,West William,KY
+CUS000930,Laura,Fuentes,2005-05-17,2021-03-02,Mass Market,EMP0400,laura.fuentes@yahoo.com,935.946.2925x11501,North Reginaldberg,MT
+CUS000931,Lisa,Patel,2003-05-18,2022-10-02,Affluent,EMP0377,lisa.patel@yahoo.com,788-514-2267x5576,Williamsville,MD
+CUS000932,David,Griffin,1971-05-18,2024-08-31,Mass Market,EMP0103,david.griffin@hotmail.com,+1-701-365-4202x126,North Yolanda,NY
+CUS000933,Crystal,Barton,1983-05-18,2022-05-16,Mass Market,EMP0217,crystal.barton@hotmail.com,+1-482-757-9482x32764,Debbietown,MS
+CUS000934,Matthew,Wood,1998-05-18,2022-11-17,Mass Market,EMP0238,matthew.wood@yahoo.com,3837929335,Natalieberg,UT
+CUS000935,Daniel,Welch,1946-05-18,2022-12-15,Affluent,EMP0269,daniel.welch@gmail.com,866.658.8313,East April,CO
+CUS000936,Janice,Hill,1948-05-17,2022-09-05,Mass Market,EMP0066,janice.hill@yahoo.com,001-716-248-9576x6979,South Karen,UT
+CUS000937,Karen,Haas,1988-05-17,2020-04-07,Mass Market,EMP0470,karen.haas@gmail.com,423-750-7278x68151,West Rebeccamouth,AZ
+CUS000938,Michelle,Wright,1992-05-17,2022-08-09,Affluent,EMP0292,michelle.wright@yahoo.com,+1-448-642-4658x29416,West Dustin,KY
+CUS000939,Daniel,Peters,1957-05-17,2020-02-03,Mass Market,EMP0339,daniel.peters@gmail.com,(769)940-2291x852,North Richard,NJ
+CUS000940,Allison,Morton,2005-05-17,2023-12-13,Mass Market,EMP0301,allison.morton@gmail.com,5936672297,Harrisonshire,WA
+CUS000941,Richard,Flores,1981-05-17,2024-07-16,Mass Market,EMP0095,richard.flores@yahoo.com,+1-739-937-8059x687,West Miguel,CO
+CUS000942,Andrew,Stewart,1976-05-17,2020-02-06,Mass Market,EMP0060,andrew.stewart@hotmail.com,(369)842-9171x91436,Matthewfurt,AL
+CUS000943,Angela,Lewis,1960-05-17,2023-09-09,Ultra High Net Worth,EMP0309,angela.lewis@gmail.com,+1-736-263-8966x513,Kristenside,WA
+CUS000944,Sheila,Rich,1956-05-17,2023-11-14,Affluent,EMP0412,sheila.rich@yahoo.com,001-423-688-0373x66122,Lake Kaylaland,MD
+CUS000945,Stephanie,Murray,2006-05-18,2024-07-29,Mass Market,EMP0497,stephanie.murray@yahoo.com,425-208-4929x1492,Douglashaven,IL
+CUS000946,Jennifer,Zhang,1960-05-17,2022-06-11,Affluent,EMP0440,jennifer.zhang@yahoo.com,+1-553-896-9314x720,West Shannon,OH
+CUS000947,Jennifer,Weber,2004-05-17,2022-05-14,Mass Market,EMP0086,jennifer.weber@yahoo.com,467-937-0675x313,South Lisaville,GA
+CUS000948,Kathleen,Goodman,1996-05-17,2022-07-09,Mass Market,EMP0104,kathleen.goodman@hotmail.com,456-577-9920,Guerrafurt,ME
+CUS000949,Benjamin,Reed,1998-05-18,2023-07-15,Affluent,EMP0222,benjamin.reed@hotmail.com,468-925-2864,Port Paul,NE
+CUS000950,David,Powell,2000-05-17,2022-03-29,Mass Market,EMP0303,david.powell@gmail.com,966.783.6495x52711,Colemanhaven,WA
+CUS000951,John,Santiago,1980-05-17,2022-05-14,Mass Market,EMP0284,john.santiago@gmail.com,617.764.3492x41714,West Suzanneberg,CA
+CUS000952,Derrick,Allison,2003-05-18,2023-06-29,High Net Worth,EMP0178,derrick.allison@hotmail.com,001-716-915-3324x72978,East Jesse,NH
+CUS000953,Zachary,Adams,1982-05-18,2021-01-28,Mass Market,EMP0225,zachary.adams@hotmail.com,(255)382-9321,Jacksonstad,IA
+CUS000954,Patrick,Jones,1940-05-17,2024-01-04,Affluent,EMP0068,patrick.jones@hotmail.com,762-967-3131,Sanfordtown,ME
+CUS000955,Richard,Johns,1962-05-18,2024-06-25,Ultra High Net Worth,EMP0083,richard.johns@hotmail.com,581.485.4076x24519,Lake Kristenburgh,SC
+CUS000956,Anna,Mcclure,1953-05-17,2020-09-21,Mass Market,EMP0081,anna.mcclure@yahoo.com,001-642-532-0283,Crystalville,RI
+CUS000957,Jennifer,Terry,1937-05-17,2022-10-08,Mass Market,EMP0108,jennifer.terry@yahoo.com,669-626-9310x604,Zacharyport,OK
+CUS000958,Mark,Woodard,1995-05-18,2020-11-20,Mass Market,EMP0441,mark.woodard@hotmail.com,001-776-354-2101,Robertborough,NC
+CUS000959,David,Williams,2007-05-18,2021-04-09,Mass Market,EMP0115,david.williams@gmail.com,552-818-6112x2398,Jessicaview,NY
+CUS000960,Julia,Delgado,1950-05-18,2024-04-26,High Net Worth,EMP0137,julia.delgado@yahoo.com,001-338-991-6768x7204,New Matthewstad,GA
+CUS000961,Tonya,Nguyen,1956-05-17,2022-06-15,Affluent,EMP0493,tonya.nguyen@hotmail.com,(648)300-3143x46652,Lake Julian,WI
+CUS000962,John,Allen,1950-05-18,2020-03-26,Mass Market,EMP0086,john.allen@gmail.com,940-553-1940,Roblesside,SD
+CUS000963,Angela,Clark,1964-05-17,2023-12-21,Mass Market,EMP0260,angela.clark@gmail.com,494-372-6296x17011,South Michaelton,NY
+CUS000964,Andrew,Sutton,1992-05-17,2020-10-09,Mass Market,EMP0104,andrew.sutton@hotmail.com,952-397-6561x68167,West Donaldmouth,NH
+CUS000965,Kathy,Simmons,1995-05-18,2022-10-31,Mass Market,EMP0137,kathy.simmons@yahoo.com,303.564.5083,West April,MS
+CUS000966,Luis,Hernandez,1996-05-17,2024-03-23,Mass Market,EMP0404,luis.hernandez@yahoo.com,001-739-300-9566x6140,Peterfort,IA
+CUS000967,Matthew,Hernandez,1962-05-18,2022-11-23,Affluent,EMP0186,matthew.hernandez@yahoo.com,(462)600-8680x41966,Teresafort,AK
+CUS000968,Raven,Kelly,1951-05-18,2022-11-25,High Net Worth,EMP0044,raven.kelly@gmail.com,9082981078,Leblancport,MI
+CUS000969,Caitlin,Tucker,1983-05-18,2022-03-16,Affluent,EMP0339,caitlin.tucker@hotmail.com,222-254-1468x57786,Mollyland,TN
+CUS000970,Cathy,Adkins,1977-05-17,2023-10-26,Affluent,EMP0448,cathy.adkins@yahoo.com,5715245027,Lake Joshua,MD
+CUS000971,Rachel,Evans,1964-05-17,2022-12-16,Affluent,EMP0076,rachel.evans@gmail.com,796.315.3141x7861,Troyton,VT
+CUS000972,Tracy,Stone,1955-05-18,2023-07-02,Affluent,EMP0334,tracy.stone@hotmail.com,489.888.5520,Port Robertoborough,NH
+CUS000973,Andrew,Miller,1950-05-18,2021-09-09,Mass Market,EMP0276,andrew.miller@gmail.com,4666091469,Leonardport,MI
+CUS000974,Nancy,Brown,1991-05-18,2022-11-13,Mass Market,EMP0267,nancy.brown@yahoo.com,638-790-3667x392,New Andrew,MI
+CUS000975,Crystal,Moran,1995-05-18,2024-06-19,Mass Market,EMP0133,crystal.moran@hotmail.com,+1-611-561-9446x94224,Gregview,KS
+CUS000976,Sarah,Anderson,1937-05-17,2020-08-14,Affluent,EMP0431,sarah.anderson@gmail.com,(532)514-1996,Robertsfort,MS
+CUS000977,Earl,Lawrence,2003-05-18,2024-03-29,Affluent,EMP0064,earl.lawrence@yahoo.com,+1-344-386-8383x2561,Kellyton,NH
+CUS000978,Dale,Ryan,1977-05-17,2021-04-28,Affluent,EMP0298,dale.ryan@gmail.com,949-251-3495,Port Timothy,OR
+CUS000979,Megan,Vasquez,1975-05-18,2021-08-05,Affluent,EMP0418,megan.vasquez@gmail.com,(325)398-8618,Robertville,VA
+CUS000980,Marcus,Mora,1991-05-18,2021-05-22,Mass Market,EMP0265,marcus.mora@hotmail.com,001-398-925-9610x3684,South Steven,PA
+CUS000981,Andrew,Graham,2004-05-17,2022-05-21,Affluent,EMP0042,andrew.graham@hotmail.com,4515209741,Ravenside,CO
+CUS000982,Vanessa,Washington,1982-05-18,2020-06-08,Mass Market,EMP0270,vanessa.washington@yahoo.com,(521)286-8241x7495,Rowlandtown,MT
+CUS000983,Gary,Branch,1959-05-18,2023-04-11,Mass Market,EMP0217,gary.branch@hotmail.com,851.723.6893x748,East Angela,NH
+CUS000984,Christopher,Murillo,1952-05-17,2020-10-22,Mass Market,EMP0249,christopher.murillo@yahoo.com,2337219622,New Lauren,VA
+CUS000985,Cheryl,Griffin,1953-05-17,2022-07-21,Mass Market,EMP0383,cheryl.griffin@gmail.com,797.709.3338,Wallerfurt,HI
+CUS000986,Kimberly,Salazar,1999-05-18,2022-01-26,Mass Market,EMP0021,kimberly.salazar@gmail.com,827.400.7251x540,Herrerafort,ND
+CUS000987,Joy,Woodard,1941-05-17,2021-09-13,Mass Market,EMP0015,joy.woodard@gmail.com,485.373.3627x14993,Ryanshire,GA
+CUS000988,Donna,Murphy,1949-05-17,2021-09-16,High Net Worth,EMP0111,donna.murphy@yahoo.com,001-890-540-2043x75195,Anthonymouth,ID
+CUS000989,Gary,Webb,1980-05-17,2020-05-18,High Net Worth,EMP0214,gary.webb@hotmail.com,001-440-239-9429,East Rebecca,NM
+CUS000990,Joshua,Henderson,1936-05-17,2024-05-19,Mass Market,EMP0428,joshua.henderson@hotmail.com,(944)639-3004x717,Ryanberg,WA
+CUS000991,Rodney,Walsh,1991-05-18,2022-08-01,Affluent,EMP0342,rodney.walsh@gmail.com,9485195349,Rodriguezview,NH
+CUS000992,Danielle,Gomez,1985-05-17,2022-03-20,Mass Market,EMP0024,danielle.gomez@yahoo.com,(432)397-7621x44130,Baldwinborough,TX
+CUS000993,Janet,Garcia,1955-05-18,2023-12-19,Mass Market,EMP0323,janet.garcia@hotmail.com,+1-382-334-1399x461,Youngbury,WY
+CUS000994,Savannah,Davis,1958-05-18,2020-06-23,Mass Market,EMP0317,savannah.davis@hotmail.com,389.943.9581x600,Navarroport,OH
+CUS000995,Jennifer,Smith,1957-05-17,2022-10-26,High Net Worth,EMP0062,jennifer.smith@yahoo.com,8203671610,South Tamara,TX
+CUS000996,Carlos,Cooper,1975-05-18,2021-05-17,Affluent,EMP0430,carlos.cooper@yahoo.com,347.743.7980,East Dustin,PA
+CUS000997,Paula,Hayes,1993-05-17,2020-04-02,Mass Market,EMP0479,paula.hayes@gmail.com,(581)867-0728,Jessicaton,AK
+CUS000998,Stefanie,Horton,2002-05-18,2022-12-17,Mass Market,EMP0132,stefanie.horton@hotmail.com,001-324-229-1830,South Brianberg,CO
+CUS000999,Megan,Ramirez,1992-05-17,2021-01-09,Mass Market,EMP0046,megan.ramirez@hotmail.com,+1-518-822-8442x7077,West Jamesfurt,GA
+CUS001000,Chelsea,Allen,2003-05-18,2021-10-28,Mass Market,EMP0366,chelsea.allen@hotmail.com,608-570-6903x027,North Thomasfurt,AR

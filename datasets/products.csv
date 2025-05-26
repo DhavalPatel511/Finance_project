@@ -1,0 +1,16 @@
+product_id,product_name,product_category,launch_date,min_investment,annual_fee_percentage,management_fee_fixed,risk_level,active_status
+PRD0001,LLC Investment Fund,Investment Fund,2016-07-05,2500,2.57,0,Medium,Active
+PRD0002,Inc Savings Account,Savings Account,2018-01-21,12500,0.22,50,Medium,Active
+PRD0003,Inc Bond Fund,Bond Fund,2020-09-02,15000,2.97,0,Medium-High,Active
+PRD0004,Group Investment Fund,Investment Fund,2019-10-02,2500,0.71,0,Medium,Active
+PRD0005,LLC Bond Fund,Bond Fund,2016-10-24,25000,2.49,0,Medium-High,Active
+PRD0006,LLC Investment Fund,Investment Fund,2015-11-06,5000,0.66,0,Medium-Low,Active
+PRD0007,PLC Insurance Product,Insurance Product,2016-08-30,10000,0.15,50,Medium-High,Active
+PRD0008,Ltd Retirement Account,Retirement Account,2019-01-06,2000,0.4,50,Medium-Low,Active
+PRD0009,and Sons ETF,ETF,2016-09-26,2000,0.54,25,Medium-Low,Active
+PRD0010,and Sons Retirement Account,Retirement Account,2017-01-05,10000,0.51,25,Medium,Active
+PRD0011,Group Investment Fund,Investment Fund,2019-04-17,2000,0.83,0,Low,Active
+PRD0012,and Sons Mutual Fund,Mutual Fund,2018-12-04,5000,1.17,0,Medium,Active
+PRD0013,Ltd ETF,ETF,2018-09-07,2500,0.58,50,Medium,Active
+PRD0014,Ltd Insurance Product,Insurance Product,2019-06-27,30000,0.67,0,High,Active
+PRD0015,and Sons Bond Fund,Bond Fund,2017-01-02,30000,1.0,0,High,Active
