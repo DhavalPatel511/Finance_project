@@ -1,0 +1,183 @@
+Total AUM = SUM(account_balances[balance])
+
+Current Month AUM =
+CALCULATE(
+    [Total AUM],
+    LASTDATE(account_balances[date])
+)
+
+Net Revenue =
+SUM(account_balances[fees_mtd])
+
+Net Flows =
+SUM(account_balances[contributions_mtd]) - SUM(account_balances[withdrawals_mtd])
+
+Investment Returns =
+SUM(account_balances[investment_returns_mtd])
+
+Avg Balance Per Customer =
+DIVIDE(
+    [Total AUM],
+    DISTINCTCOUNT(account_balances[customer_id])
+)
+
+Fee Revenue = 
+SUMX(
+    account_balances,
+    account_balances[fees_mtd]
+)
+
+
+
+Total Customers =
+DISTINCTCOUNT(customers[customer_id])
+
+Active Customers =
+CALCULATE(
+    DISTINCTCOUNT(enrollments[customer_id]),
+    enrollments[status] = "Active"
+)
+
+New Customers MTD =
+CALCULATE(
+    DISTINCTCOUNT(customers[customer_id]),
+    DATESBETWEEN(
+        customers[enrollment_date],
+        STARTOFMONTH(MAX(Date[Date])),
+        ENDOFMONTH(MAX(Date[Date]))
+    )
+)
+
+Customer Retention Rate =
+DIVIDE(
+    CALCULATE(
+        DISTINCTCOUNT(enrollments[customer_id]),
+        enrollments[status] <> "Closed"
+    ),
+    DISTINCTCOUNT(enrollments[customer_id])
+)
+
+Products Per Customer =
+DIVIDE(
+    COUNTROWS(enrollments),
+    DISTINCTCOUNT(enrollments[customer_id])
+)
+
+
+
+Avg Satisfaction Score =
+AVERAGE(service_interactions[satisfaction_score])
+
+Service Issues =
+CALCULATE(
+    COUNT(service_interactions[interaction_id]),
+    service_interactions[reason_code] IN {"Technical Issue", "Complaint"}
+)
+
+Issues per 1000 Customers =
+DIVIDE(
+    [Service Issues],
+    [Total Customers]
+) * 1000
+
+First Call Resolution Rate = 
+VAR TotalCalls =
+    CALCULATE(COUNT(service_interactions[interaction_id]), 
+        FILTER(service_interactions, service_interactions[channel] = "Phone"))
+
+VAR ResolvedCalls =
+    CALCULATE(COUNT(service_interactions[interaction_id]), 
+        FILTER(service_interactions, 
+            service_interactions[channel] = "Phone" &&
+            service_interactions[resolution_status] = "Resolved"))
+
+RETURN DIVIDE(ResolvedCalls, TotalCalls)
+
+
+
+Digital Engagement Rate =
+DIVIDE(
+    DISTINCTCOUNT(engagement[customer_id]),
+    [Total Customers]
+)
+
+Mobile Adoption Rate =
+DIVIDE(
+    CALCULATE(
+        DISTINCTCOUNT(engagement[customer_id]),
+        engagement[device_type] = "Mobile App"
+    ),
+    [Total Customers]
+)
+
+Avg Session Duration =
+AVERAGE(engagement[session_duration])
+
+
+New Customers MTD =
+CALCULATE(
+    DISTINCTCOUNT(customers[customer_id]),
+    DATESMTD(Date[Date])
+)
+
+Churned Customers MTD =
+CALCULATE(
+    DISTINCTCOUNT(retention[customer_id]),
+    DATESMTD(Date[Date]),
+    retention[recovered_flag] = "No"
+)
+
+
+Net Customers MTD =
+[New Customers MTD] - [Churned Customers MTD]
+
+
+Tenure (Months) =
+DATEDIFF(
+    CALCULATE(MIN(enrollments[enrollment_date])),
+    TODAY(),
+    MONTH
+)
+
+CustomerGrowthStages = 
+DATATABLE(
+    "Stage", STRING,
+    {
+        {"New Customers"},
+        {"Churned Customers"},
+        {"Net Customers"}
+    }
+)
+
+Customer Growth Value MTD =
+SWITCH(
+    SELECTEDVALUE(CustomerGrowthStages[Stage]),
+    "New Customers", [New Customers MTD],
+    "Churned Customers", - [Churned Customers MTD],  -- negative for waterfall
+    "Net Customers", [Net Customers MTD]
+)
+
+Open Tickets = 
+CALCULATE(COUNT(service_interactions[interaction_id]), 
+    service_interactions[resolution_status] = "Open")
+
+In Progress Tickets =
+CALCULATE(COUNT(service_interactions[interaction_id]), 
+    service_interactions[resolution_status] = "In Progress")
+
+Resolved Tickets =
+CALCULATE(COUNT(service_interactions[interaction_id]), 
+    service_interactions[resolution_status] = "Resolved")
+
+ResolutionStage = 
+DATATABLE("Stage", STRING, {
+    {"Open"}, {"In Progress"}, {"Resolved"}
+})
+
+Service Count = 
+SWITCH(
+    SELECTEDVALUE(ResolutionStage[Stage]),
+    "Open", CALCULATE(COUNT(service_interactions[interaction_id]), service_interactions[resolution_status] = "Open"),
+    "In Progress", CALCULATE(COUNT(service_interactions[interaction_id]), service_interactions[resolution_status] = "In Progress"),
+    "Resolved", CALCULATE(COUNT(service_interactions[interaction_id]), service_interactions[resolution_status] = "Resolved")
+)
