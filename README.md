@@ -59,6 +59,21 @@ customer_id,product_id,churn_date,churn_reason,exit_survey_score,recovered_flag,
 
 >  *Data is synthetically generated using Python to match realistic patterns.*
 
+##  Synthetic Data Generation
+
+The synthetic data used in this project is generated using Python scripts located in the `docs/` folder. The scripts leverage the [`Faker`](https://faker.readthedocs.io/en/master/) library to create realistic-looking but entirely fake customer, transaction, and interaction data.
+
+###  Script Location
+- docs/generate_synthetic_data.py
+
+###  Dependencies
+Install required packages:
+```bash
+pip install faker pandas numpy
+Run the script using
+```bash
+python docs/generate_synthetic_data.py
+
 ---
 
 ##  Dashboard Pages
