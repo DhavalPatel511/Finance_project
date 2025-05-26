@@ -68,11 +68,10 @@ The synthetic data used in this project is generated using Python scripts locate
 
 ###  Dependencies
 Install required packages:
-```bash
-pip install faker pandas numpy
+
+--- pip install faker pandas numpy
 Run the script using
-```bash
-python docs/generate_synthetic_data.py
+--- python docs/generate_synthetic_data.py
 
 ---
 
